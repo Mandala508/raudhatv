@@ -34,12 +34,14 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 
 
-#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
-#EXTINF:0 tvg-logo="https://i.imgur.com/zIjAL14.png" group-title="NASIONAL",GTV v
-#KODIPROP:inputstream.adaptive.manifest_type=auto
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+
+#EXTHTTP:MTE1YTg0N2MzOGMwZjBmZtAfOCBsi/nx1yI0bhvuZYyU9SKoOCyllzSKlh+huqO2Pd6bmPFQjEQxAfq4rodIvzBjMTJhNjhjMjkxNThjNzM
+#EXTINF:0 tvg-logo="https://i.imgur.com/zIjAL14.png" group-title="NASIONAL",GTV 
+#EXTVLCOPT:http-user-agent=YzJmODM2ODAzZDNhNjBmZALdUjp0Lp/BGBYIiU6oYjZjMWIwY2U3OTdiNzc0YzU0
+#EXTVLCOPT:http-referrer=Zjk2N2NkODY3NTg4ZTU4ZCH7t1zQSQx3ZcpOKEW0R2FVy38nneYmfHrqQITzUcI2MmQ1YjYxMzBhOWNkZDQ5Nw
+https://wakhaji.my.id/MTg0NTExNWZhZGY1MjI5ZYp/P0F+dlMJn/8zBbVz2NHT7Pie8DtJnpYChclkte8m6JcVa4tcbKskoYw4c6qMD0KMZax8hMfV+qvdKAqNwallZTZiMzIzYjdhOWU4ODI3
+
 
 
 
@@ -69,22 +71,27 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/3jaxIXY.png",SCTV HD
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4MKRoso.png" group-title="NASIONAL",Indosiar Ind
 http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/4MKRoso.png",Indosiar HD
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 #EXTINF:-1 group-title="NASIONAL" tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/MEVxFpK.png",Moji
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/MEVxFpK.png",Moji
+http://opplex.tv:8080/3116580700/0700/350997
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/MEVxFpK.png",Moji 1
+http://xtv.ooo:8080/0966717777/0966717777/350997
+
+
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/MzDjwbj.png",Mentari TV
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -245,6 +252,844 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/VisionPrime/sa_dash_vmx/VisionPri
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
+
+
+
+
+******************NEW VISION+****************
+
+
+
+<=============== Voison ==================>
+
+
+#EXTHTTP:NTMyNzA1YjVlY2ZlMjViNM0kipZq1Q4hDYWNpAe+mvYWee7UhgCTFpWNRiHVPiOSEVdLapJRZdnxmmrHVdzfFDE1YjMxNTY5NWFhZmY2NWE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.RCTI.png" group-title="INDONESIA 5G+",RCTI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YjJhOTM4MjQ2ZGE3NTliMaUPET5A/zaMSyopq+SzaUigPVQPC0vUgMalZsdM8B0XSd64cHYbnzq9+3w6ZlRYRQ9NEnyPfeFF4eG7rnvhqZluP+HodLOR7PcN7sQkFpRpMGRjNGZhN2U3NTI2NzQ1ZA
+https://wakhaji.my.id/NmJkZmRlYTZkNzI4ODM0Nc1Ij3zzo5HqKV0VisAgtjlKeL5iCHrTHna/pQOFnd2vkKcAlMdcwjyZgN2JDszy0qdnbOigwT6O4YMNJZp5o1JZR7Q5Hk2ddOAiGyr+ZsoMNjU1YjAwZjRjNTdlMjg0Nw
+
+#EXTHTTP:OWM0ZWIzNmIzY2VhNjRhY5xkFFEjNFUI4VI+Am3je+wyyXSjr0CESkt+DM6jyKPmJutfO7CyihnTHf+UEaNem2JmNjRhZDgwYzQ4MzNiMzc
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.RCTI.png" group-title="INDONESIA 5G+",RCTIᴾˡᵘˢ
+#EXTVLCOPT:http-user-agent=N2YyZWJlYmFiYjJjNTJjYjKuceuN/qtLVBzmiPCgUcZiMDdiMmIzODU4OTI1ZjVi
+#EXTVLCOPT:http-referrer=MzBiN2IxMmVjNDU1YmU5OOmeDN77xwvSx1/D9G8pcUnOhH/XNCsmiFv2bpr/zlKCZDA5OTZhNzdhYjViNWE4MA
+https://wakhaji.my.id/NjNmMzYwNzQ2NWIzZDcxNKVCPVPLCfBPJhiPPyRu0XWp7kEA1CuzvnhGOU5RjN8qipwZCCbZ29jw6x3jNNvBC3e6xF+SoXr+C3r2Ksr9UEszYjJmMTFmYzg0NmYzMjMw
+
+#EXTHTTP:M2ZiNmU2Y2RjZmU3ZDM3Nsz98am7EpNr17UFzun4iQuzR/LUOy3oLeYbeCcmYj54UNvkRG1OZhi3pu+HLPTHkzA5NTUxZmU5ZDBjMzhlODk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.GTV.png" group-title="INDONESIA 5G+",GTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MGVjNDNjNGQ3MzU1ZmRhZuY0L4jliAhHn/gAwaVgWx3BCHpejUmt+DZI+E2zS95j68bj7T+Z69g8HbEGvVIL5Y1PnMvjXVdDu0FXUBzbSg2PAewyjgq09RKbI7obO+W5ZDg3YmFmYTcwMDBhMjkwOQ
+https://wakhaji.my.id/ODUyZmNlN2VmNzYxYmU1NV0gwMPClUyn/VtaJru/LYO3v2lvN2pqzDkkmev8+rTUwWv72DCO3twsh2C4j5RubduUARg1b9a+rv3sKrisKEoKI2OkK+xDbWByABNs6XotNDU3ODM2YmZlNjkzYzFlZQ
+
+#EXTHTTP:MTE1YTg0N2MzOGMwZjBmZtAfOCBsi/nx1yI0bhvuZYyU9SKoOCyllzSKlh+huqO2Pd6bmPFQjEQxAfq4rodIvzBjMTJhNjhjMjkxNThjNzM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.GTV.png" group-title="INDONESIA 5G+",GTVᴾˡᵘˢ
+#EXTVLCOPT:http-user-agent=YzJmODM2ODAzZDNhNjBmZALdUjp0Lp/BGBYIiU6oYjZjMWIwY2U3OTdiNzc0YzU0
+#EXTVLCOPT:http-referrer=Zjk2N2NkODY3NTg4ZTU4ZCH7t1zQSQx3ZcpOKEW0R2FVy38nneYmfHrqQITzUcI2MmQ1YjYxMzBhOWNkZDQ5Nw
+https://wakhaji.my.id/MTg0NTExNWZhZGY1MjI5ZYp/P0F+dlMJn/8zBbVz2NHT7Pie8DtJnpYChclkte8m6JcVa4tcbKskoYw4c6qMD0KMZax8hMfV+qvdKAqNwallZTZiMzIzYjdhOWU4ODI3
+
+#EXTHTTP:Y2JiYmI1ZmEwN2E1ZjVjMB+knCT0OQC6TSD5qA1YYXWMdP5o5Sl/ERJMWj36TZ9KtUsYSIGy2lgolGGrqlfowTllYjNmM2YwMTBjYzZhZjQ
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.MNC.png" group-title="INDONESIA 5G+",MNCTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MTFhYTNjZjQxYmJjZGJhY487d6YHlTc5BBiAJBqI6TDUXw4TVcGX+rqi11QrtSoRISs6cUsTKnyqA1V884zgTjxKzR1tI2L47XquLVchd7MFBbAMCjNu9JSX3BBz3NWqM2Q4OTllNGQ3MDc3ZGM0YQ
+https://wakhaji.my.id/YjJiOTkyMDVhMDU2ZjgwOV57eTDJET4BGpa1DNirXkL2caibKVImU5J/Ies3DTZQD/9H/XgpqLF9RmeLrusTkT8mn64kF9BhV+dSQzZ/F1vbG1babl5l+xRzMko3Wq2Gk9f4iX/QVLbS7XtQfiucgGU3ZDM2ODEzYzg1NmYwYmU
+
+#EXTHTTP:NDEyZWM2MzA4YmY2MmRiYuwY1Le6feiUUDYIqaEFmHnqYUD4W97Laom+XrXgAokJ82lTGBeavO10i4P1YvNe0TBjMDNmNmIyZjRiNWMwOGI
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.MNC.png" group-title="INDONESIA 5G+",MNCTVᴾˡᵘˢ
+#EXTVLCOPT:http-user-agent=ODA0OTIzYjM2MDM4OWIwNfo6beR2YJXD9ywpPAcGLUI5YmQ1YjJlNjc2ZjA4Yjgz
+#EXTVLCOPT:http-referrer=Yzc5NzRhYWY4ZWQ2OWU4OS0Nk0PMEi9cwcapIsjTZKfogI+ZkmuN/V2PPtGIrgstNjg3NDk1MzIzYWI2Y2IzNg
+https://wakhaji.my.id/NzE5Y2M4MzNmMWMzYzRiM7snUmq2eyGAMAKsm7wol4emW1166giqvO94rSRrjQ081uB7WJau76O4WcDXuVKWS2DMk+iRpBjMwokpJ7FKGQA5OWFiNzBmZmE4OWVjZmVk
+
+#EXTHTTP:ZWUyZWZmNmRjMGQ1NGM2NLr3Dnqx54qr6Q9Ru+QAQvJvj2DciRrtOecOc65llmPlXn2KVIA0gct1Wt0igJRDDGZjMGE1OGNiZjNiYmMwZjU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.TransTV.png" group-title="INDONESIA 5G+",TransTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MDgyOGYxN2NkOTRkYTg3M5jtIc5wcsOVtLHsdnzvwZsFyxecF10T4UfaAnXRQ7QmjkE1zuCR/fP3c5pGZjYTti7MRrkArZGiVS2vgqY6Z6i4z4YgDSlAm2x7JbBG1ctFNTg4MTE1YmIyYzg5ODBjNQ
+https://wakhaji.my.id/ODYwNTE2ZGY2NDJjNTAzZOP241EeBE5wh+99foIGU18A+iMz2RQcpw4x6+4wOC69emLORctZ6TaTvt148zVUlM64S9E46YpfrSX0VyYFDLxnFW39nvcdG+yVUd0o1KFO4FJbApSQ9wymGKLVVdeGwzc5ZTc0YTBjNTY3MmE4MDI
+
+#EXTHTTP:MDA4NDBhZDdiOGUzYWNjNG56b0UC/9pjv8Sq63i1oWN2VlyODVAb5DIB4du9AiJfakrAez5G31GENP/xK79tCTE0NWJiZWQ3ZDYwYWY1ZWY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.TransTV.png" group-title="INDONESIA 5G+",TransTV®
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=Y2IyMTVhMDlmNzYzY2ViNmVuROnw+n1ZT5X21j0mMwzam0WwPA8+2pRtRPY1mkLI9Y39blnXAJ8cyBAcZFNPSRqBroAFZBN4uaGSgyYXgEnJbUrKQe8hLepM/fqNCOYrYzExZDFjMTQwMTYxMDBmMA
+https://wakhaji.my.id/ZjFhYzQyMTkwMTcyMDRiNjbBdaUCkBdTPjoWjXg27k5894qLCs2GLqT4KH2qrKAgaXpy5/mPDZRyiPsyY2KbMhlaF6m2iwxnlR/eQYHH60a9jTvjUXOAr2SyBeJsHXyknFBzhCkmEv0YLih+wTNW/ThjZjRjMzI2ZTJmNjVmYzE
+
+#EXTHTTP:NGI2YzNlNDQ3OTgzZjI2OA3rMWKiN+TK+kfFIKJGIbvys8l3dbRFzqvxiHHe5QuJBocV4T0zefTYxZ0/5idwc2Q5NTJiOWYxODBmMTQ5MDQ
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.Trans7.png" group-title="INDONESIA 5G+",Trans7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YmVjYmQ0ODQzNzRlOGQ1YQnNB8qviXay1ai0eiErd3hJTCcvjsNJeL967cxeAXF+QF+tJNMZSX9fjhTeJiXn3k2ZyEqwDoD1ML3NgKcTLK1ZMz1ITAd6OgrsN+4kuEOZZTY1Y2JjNTRmYTA2OWJiMA
+https://wakhaji.my.id/Y2M4ODI5MTBhZDg1YjQ4NLa+I+0bhgGpLfI6eDJ/PJTEmcrKNXrUBNAfgsDVIyK98qiFxopvStrQ7cwOg7HrpLITuqahkBkV2g9iC0+hmS3ANEKtBtLM65LKA8sVdrJskY5+k7sOZUeh/HGnLDz7TWYyMmNhYmJlOGMwMGQ4Y2E
+
+#EXTHTTP:YjcxMDVhODFhYzk5MTQ5YgiOQ81UhQB1rAMu3EjvTYThNHTyKYJCj+kph/nyLRGeAQWtJhhRNfC6ohD82i2JiDIzYzk4ODI4NWY4YWNkMzY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.Trans7.png" group-title="INDONESIA 5G+",Trans7®
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ZTBjNTNmNzc2NmQ4ZGExY0eZdD5wSX2dXR/0frNz+g4dzW885ztqijhTQWI4vRtjWyX1IXjRS6WVo7cAANVTRWhsSRwhyyiiJ1uwbEQ04HOKQ/jIiNsOs3SW2NzbSMY6NmUyY2VmZjYwNWM3NWFjZg
+https://wakhaji.my.id/ZGUwMmMxMmZmM2VjMTg0OLHfkrD6TPevt1lwXZxjfLQCYuMfrgggv9uYXiECnKBLSBjBDs4ixp1x4CNH4v69/cD346sPVNSF9nuADLOrSnL/p8cHan1AR7cSLSNefgyDFPHCY0c1THaSX47riJ340TU1ZGM5YmUzYjM2MGZlOTE
+
+#EXTHTTP:YmZlMjcwYTY0YjA2YjRiODa8BBXfttulDQMzChRIG/T+3L9o1zDh/UbWJyRXdDO55L93Ub1EqSNlc8t0i9yHRmE1NDcwODZmMDY4MDhiMzc
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.net.png" group-title="INDONESIA 5G+",NET TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YzQ5ZjE5NjQxMzQ1ZjQ5ZXwZU2aTsUcwzbTVPP1EDBl6aGYDqkOEMOrA/xpz+D2wujRgtJya2XDDkatiTIj+20M/MTBJh49ozbjHHtms44R/fzd6h7mlTsv0IgdcMUFNYTE2MGEzM2M4ZTY3NmZhYg
+https://wakhaji.my.id/ZmQ2MTk3YTgzMmJlODk1MFAM0j3cfAeZHBoIs/MIRRelZ/zeF8vd7P5BS1XTMQgXIG6bIRma/PX6fgcQroZHtnC6/fggaSMQrWLZRdNhuXAR2emi4kW6EM3HDVEM3D1Mqh+OC9FRs6AeW2ZudX/wz2Q0YmNjNmRiYWJkNjc5N2Y
+
+#EXTHTTP:NjZkMmM1ZmE2YWYwM2M2Zax+tkYREzZKzigOxnLG7hjSJ4/nBj90HyaDP0x06PKXFtCMhXaYMA+BZJy0YNigyWI3Y2YwMzA2YjJlYjc1OTc
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.iNews.png" group-title="INDONESIA 5G+",INews
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YmNlMmFiNDdhM2EwNDQ1OGvcY50ks9S90BRepqS6x14yWqGVa9dQs0VGTvI3xn+ckwMi81kVk51eVOTwVtQf0nRvbtxh9Ydg6/GW8ny+Fy+bayVVPxeExaTeV2LvycA2NWRiNjIxOTQzYjc2NjRmZA
+https://wakhaji.my.id/MTkxYTkzMmQ3YzVjZDVmNpkf/ad6y3wXeHEcyDc5FDvGWjv1aKPf04yfmGv43W0+0zGmSjyUxkf294vBgdW3ohH8sOMnHRPZVGBu6WjL+xZTTaJjRkjfS3PR3rhig9zsCNSWiFBpeJVcTg9/zzmnJDYzMjQ1Mzg2ZDhlOTRlMTQ
+
+#EXTHTTP:YTZjNGI1NTBmN2ZiYjgzYiEbN5+w0PyheskJVaxabI1kl5gSwhNMOU3BV5RDQUAEdSJhuajQi7Hd3khjOvZzwWVkNjU0OGQ3MDYyNjE1NjM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.iNews.png" group-title="INDONESIA 5G+",INewsᴾˡᵘˢ
+#EXTVLCOPT:http-user-agent=MzliNzliOGM3OGNiMmNhN0Mo9/WPcHzd3VYzFxlhmL0yMzZjMTkwNTlhYWNmZDE4
+#EXTVLCOPT:http-referrer=MDI4ZGYxMWQzZGQ0NjI4N6iNI7TKwUWXuxEiIOyKj+mkNL/3AAQ1WcTxwKAVIm6JNzNhNjIyZjJkNjIxYTE5Ng
+https://wakhaji.my.id/ODkwNzdiZWFlNjI2N2I2Ml7X99R2QY7T9Lt68hBw/KrJc/Si4DnrhlgknZGzNTcHTw15+VeKrW7tJSRdAf6QRTFTE21fbUHSBJ2uqSHCbvJjZjkzYWQ4ZTYwOGY4ZTcx
+
+#EXTHTTP:MWQwNDI3MDczYjZjODUwMb5q73ZizkP9wHiRmQ2z15sIsOaPDkKTw/gkZcDYGIbinhf8nL156bpa/RdCEZvI4TFlNDM5ZDJjMTFlMjBjNjM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.MetroTV.png" group-title="INDONESIA 5G+",Metro TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YzZlYjgwZDg1ZTE3ZGZjMmMNq0BNkO08yHeaXh7zyFsjA9QLrcb4Mt8NdGePOz8JmCL4mWNc9veBokWSSQFZad3UkVGAO3O9CJ3+aiLBfnXkpU1EHGRGNa4NeYFT0rXSYTE1NTU4Y2YzN2E3ZmEyYw
+https://wakhaji.my.id/ODczMWM4NDQ5MGI4OTNhZF8nxK/fWRiJ4Hxz5Em2lKj9kwPmRVw1AY1GaPpo0DejEUq1CXvLlaQOzfP4UcGA9ZsdCoMA3biPlnO1YFQmWwYwynRsA1Z1odqdKhUvD2t6lcF4SaRZf4yg6a/0MCXK0jRmOWY0YjYzNjVjZGI3ZmI
+
+#EXTHTTP:NTIyYTkxNjQyMmNlYjY1ZN8pI1Kceh0kPCunemrYAQBLLZkniL9whvVqoNnx6vHrNs65Ne0nc7OMoqIs+53R7jM0ZGYwMDc0YzdmOGFlMzM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.MetroTV.png" group-title="INDONESIA 5G+",Metro TV®
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NWQ3MjY1NGZlNDBiODM1N1q/Yq6FlwBF7QErMEZn/D0Y9Krx4BV5+q8xcYxQqbz65gPgTqw5Z4mb8QEKRuWDk359eDIEpk7nvknqWdCw+utyYVRqSPeNZVjQtQVR6EHaN2YwZGY0ODg1MTJjZjljNA
+https://wakhaji.my.id/MDZjOTIxMzQ4NjQ4NTdhZH6I/WHUJj4G8dJM7Q32swD1ZN2KSNWiqX+VtGFtUBDUSdMKhJtnuxOzcG5vcdusJ4upk7HUjq4zFUU7urIVi7OXKP+gJG0JIVpnG9Qhfeqt/f0RqjD6RB5yaTpsJKCK9DlmOTc2ZmI3NDM0Njg2ZDI
+
+#EXTHTTP:ZmIxNmU1NmY4MzYyODk1MkBdh3Bv8cgUnTuBCs56HEAUcdNiIMC2jxvWEiC9NDxNnWs2pVcHmQaGweXCG8seqTNiMDc5M2Q5MjVlMmViYTg
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.KompasTV.png" group-title="INDONESIA 5G+",KompasTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NWZhZDVmMTJkODZmOGFmMf1fA8DNuX4cNPGz3pLvDHhxuFTUMrTiXuEhwxESApJ3eiDT9uQaZLlNIfAQ2xj1CcIeP8AEhp8rom2TgaaZuoMbb6+8J1iq5a7Eq5bubNoTMGQ2ZWM1M2Y0ZTQ4OTA3Mg
+https://wakhaji.my.id/ZTI1N2VjZWQ5NWIwZjMzYq0mjw3/mVZpa1mUBrxy14hqxG2+XLYCaSRhKrPM32VfvnEKRf7TF3X++TZOSLGifou/opRJlNmORbyFs2+s57RXA6/wLNzUF9gTqXTUX17HBjLHT3TV2JT25nUZEp15cTA4ZTlkNDkwNmNmZDQ1MjE
+
+#EXTHTTP:YzdlYzQ2MTBjYWQ2YTM5ZC0SIYy38Av49F9aHBuWVRAcVL3Ph5WVvcNKC+5h3trQsIUIkVrY0b5oVuSzpD6K6jY3NTlhZjA3MzUwZTY1OTg
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.KompasTV.png" group-title="INDONESIA 5G+",KompasTV®
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MjUwNDc2MWQxM2ZiNDcxZPQ1NmhjQaGlxVYpHTdXVVzOt22NNTvH09tKA0FGrN8U5b23UM9HisbLrB2yDTuafMazosh6wnzZPaniIb4XyWgCQ/zJPVsmuI6mB1U9d15QYThjOTk2NDk5YzA3ODZiYQ
+https://wakhaji.my.id/YmRhMjEzZmM0NDZkOTAyZuut/5Q0aPaho9mjaTlrTuImtVJNeuwGoE1g2yQRdkxwVypASiMLj+s3WsVC0glipp4CiwiovQFihT5hB0kGMtgQ5JjXyKc3y1GD9MVS2ZL0ilmVp7fR235AtbmavA3rszIxYTNjMGM0NzY4MmQzMjY
+
+#EXTHTTP:ODNkODM0Y2FhOTVhZTYwMbwokUW8lVjbuYaIPoTvDStE66lpuvTSRN/VTCeXTeYnh2lupYWi8W00VMSET3LvJmE1ZWQ3NDY2Yjc4M2M4N2M
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.TVone.png" group-title="INDONESIA 5G+",TvOne
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=Y2RkOGUwOWM0MTNmM2JiNLc+wL21FNv86qtV3oMaj+FoarXsKof7xxUy/SQI25DJdrMDOMq25WYBMaQml/T7JODseLgLAhmcYl+51CQNF8a5wLps+Ok7sGxFYzpZ70CMZTQ1YjEyNDA1NjIxM2NlOQ
+https://wakhaji.my.id/MTQ3NjUxNzY4MWIyYTQzOWk0UmSaCywMYXOouS6xrFDK5UXpjyR6LaTi0lxl1lRZ01xl02axsabPsU5aQlXps+M3vbBxiXJ5v8Zalc8WUg3hevAntRPL9MDccG5Mg36SMDlhZjczYjgwNzYyYjk5NQ
+
+#EXTHTTP:ZGVkNWZjMWIxMzMyYWQ1MdDEPpE9W0YtlCOkR+U6tzrui//MlM1fZXTLTsP1Fwa3pvKeUGCYYd0ETiH5lbGjmGE5ZjgxNGJiMDUyZWQzMGM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.TVone.png" group-title="INDONESIA 5G+",TvOne®
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ZTlmNmU0MjlhYzgxOGI4NAuZNKhWNMd/30x6Nbjotb7gEEqyJkaFJRHx4YpcqWQA4/IN4q9oanPuqhpFowq7XJIQTioIWZmYP5M9roJAkURbf2kmTCqrMewoAn+ZtGPJM2JlMDVhYTkzM2ZmMjJjMw
+https://wakhaji.my.id/ZTQyYTIwZjQzNmQ1NzEwNVPoLzozCKsjo859rGebXaFJ9DwgmB406glBRakKW9UJX3Q0G2TB1PBuvfuFj4iJxUsMO3VprPhssDGjUJlWnDhGkh7i8TGBa9nzg6JNElWqQ1tPeXtMLFYdYdFiZU9PCWRlZWYxOTk5N2M2MTlkMzk
+
+#EXTHTTP:YzU5OWUyNDM3OGE2ZWU4NnL5M8Ity0lHY3oQKOdvoJyuIK3RNihyT6rMtNRjvmObThnEVfl6xYrNiHP63EVtuWNmYTM4M2EyYTQ2NWRjOGQ
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.Btv.png" group-title="INDONESIA 5G+",Berita Satu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NThiNmZlZTVlZWJkNmZlYW1u9NTi9qUNgBdvWoyP7ovWN5lzfQbsw6ggnYT4u7Fi+w5oISPPexpBMaS85J0Akc5LSAPC2o0lDWIranadmbYsik5XO9oVSr+jwNbXh8OlYzhkMDM4ZTU5NzE2Y2U4MA
+https://wakhaji.my.id/ZDI3NWIxMGYzYzhlM2ExMzHArOwX4UWzKYGQGSbURV6vSA4dab9i4tSgxOJeRlwHh6Ma9QS8iOK+pnFSDGZg1YW8FDcLnTyLrHB/J3Im6EYTcXRc4BRTlAocgUNTh1o9HmpjN0DROA6IwXPNyzvwRGI3Y2UwNDdiZmI3NDdjZmU
+
+#EXTHTTP:ZjkwYTdlMTA0YTg0YWEyM5gLqJTrk3EfuyuI3Jh2mTUlFIVd16ppprb8gBWT6WzMEjjOnoccsWKSvpmC257W6TIxNTRlYTVkNzg3YmMzYjc
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.idxChannel.png" group-title="INDONESIA 5G+",IDX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YThmMDUwZjY2NDdiYjYyZZliqcYcuU4/Vy+3XnSMgY9JVAPhpSC/LmIpCNINyM+0NT/di8JCHYCU3LFiYMiPBOaNJTrXGVzXRrdsBzpomPCCCDCBZr2hzH16vM+ar3bLMmY3ODRiOThlYmMwZDZiNQ
+https://wakhaji.my.id/NDBlYWY3YWZiNTU3NmNjOOD1HJdqBy1CvZ5mmrV8Te18BZ3t28s73Xwb1vizqZp6xxKp/XgPs9l16gryJPzqfVChzQ1snLJHaaEBC1+/jyRgOxGMUu4Sw+g+5EuG336MMDBiMWVmYWJhOTQxNTI5Nw
+
+#EXTHTTP:OTI2ODQyMWZhOWYzYTNlN+sTiVDfNein3ncynjcMlFWohU41PXGksziGoctBFTfGVAv/j8Y64XhDIE3yWrphcjkzNjE4ZTI5ODI4MmJhYTI
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.MNCNews.png" group-title="INDONESIA 5G+",MNC News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MDljYzNjNjEzODVmNGFjNFa+iTnVxSVu8nSX500fnQ/W7XPuGdwy4qStz7Dtq4jWi5Stxe0gU5ElmaMqu5nr9LgDklZQnL62+07ezcKkuZn+CfkFHz9WyAbuV2eRv272M2JmYzYyZDk5YTFlOTMwMQ
+https://wakhaji.my.id/YTNmNjBjNGQ2YjFmMTlhMrKMk4KHHEwoHYSXHnCoMJQNRuavG855tKQcSwu4JdEej0fGSCTyYAAOlxEOGKtt5fPSelL7xpcxkLx/6PGqdSvgoT4sHFhRyBXz6CwQDOtbf252qOGAXHWHFNd4FGTN5zgyZWJmZDg3MTgwMzYwMTc
+
+#EXTHTTP:ZWJlZTBhMzQ0NWYxZDQyZY2JGWB6Z8piL2nOqpUn79xGqv++sxoxYCKQRlFkAuDGDvcUPnrpCUMGggiCyXKr+TM5MjlmZmExYThkZjc3MzY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.ANTV.png" group-title="INDONESIA 5G+",ANTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ZjJhMmViYmYzYzMzZDIwZOFDT29gtuoHz5ixD6v9/J61LmR982pw5SyFejVmk6gFtInHewLgVu80+ZSacGHzJTXMTEWbnA4lPF1pxu5sbKlby6gEd6uf+gdAeqqR8R+xZmE0OWY4YmI0MjllNTRkMw
+https://wakhaji.my.id/YjIxOTQ0MmQzZTk1MTU2NdLAaR8lnZk2mA1rKSVVWfP/Q5GR1yR+zU4+WxngjSWPH2viR55F+v+rkAXKPpxyP9H3KNgllLu1YZM8AjxXeZ1/kuiJqNzLGEb5BodJfMXhZGE0M2VjZThkY2FmZDI3ZQ
+
+#EXTHTTP:NGY4ZmJiZGNkMTcyMTlkNhd6mD5fCSsa8PWbnVI+AXh0f1+SY+gW/pI0bShATywo4bvuw4h839X/UhAYeKqgJjhmMDMyMDdkYjA3NzY0YzA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.RTV.png" group-title="INDONESIA 5G+",RTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OGI2NjcwYzgxYzI5NzY3Ycz1ChXYIi9WN+GklTJMVoIqA669zISbUfXib16KUt15iCvqKjDPllK0gYpcYjeis8/UYnTFdT7eUoF83i/I4l54Uq/KquJqm79iFg0GTl3sNzY4NjBkZTdkYmEyODY3ZA
+https://wakhaji.my.id/NTYzNWY2NGI3ZWViNzQyNKiOTnqMhgFdntBD4lNNLjIxaYJf954YMXaU6qtw2tQFpV7WRphefJNeBEMxK7V+EWNlaOxGxj4M+sJhe522u70lm210sHoNNUf4jBfpAq19MGRmN2JkN2I3NzBkMWI2Zg
+
+#EXTHTTP:OTNmN2NiZTljYzM2NmJkZCaOVvtgoIdTwLSgS9R6nBTFFLkOB/fxy2SXFfv3hMHkS/wFP5NvSYmL8iDdlIHcAjY0YjZkNzZjNDg0NDYzMDc
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.TVRI.png" group-title="INDONESIA 5G+",TVRI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NjViM2I0NGYwNTJmMWMzNSsU9rs9Qqrtiwg3Fa6/qkKDClqZOqavHuKVbcCN/5IwGE/4utCl3uKh8qOkYy5Byklussxi2e9JgyHVkU/cCwG9uqg+Y3PepaSbsOU3eaKvOWY2MzVhYjQ3NjEzYTM4YQ
+https://wakhaji.my.id/MGRiMmVlNjYyYmQyOWVhYwvqL9bi5Gm3VNS7LN5wuNDwKtsOptDLkhLHIZy5abBuQ+Cljl0zdZpXb41O5YFJ94IrpytUjJOGwzNzJsH/sUaSUYdQ/tCPkHrHpwz+JgxJgj3kaTLmvm5oQ7f8zzvC5TM5ZDAwZjY0ZThjMjRmOTQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTHTTP:MmM1NDUyZTYyMmE3MzBlMh95lAk8Fgx3PibV0N0G/nyks6aRShpSfc82eykH0cs+/9oYUKluwilggHvSzFfPlWFlZjc5ODkyMzVhMDFhODU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/5.zoomoo.png" group-title="INDONESIA 5G+",ZooMoo Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YmI2MzY0NWIzNWNlYjBiMp5dn4W6AvOiv21eGLDMPTN/n0kdhal7rMbg5UjgT7YKWeBJQXo5E+XIBDBL+utP4e2PL7s2G9R1wnq2tpB+g5tiImeaoeovYYP6cJ3eOnWxYjZiZDA3NjNjM2UzOTQzNA
+https://wakhaji.my.id/NTc1Yjg3N2JiYzE0ZmNlZMJ033BZidN5YCmF+McKCbseiY55t98UMBc3t9QrWJCAmn60/BEJVZOBy06cF437ceQj+HsUSAJqOA2XgopRWblG8D6cx47UUipRJNFdivCkZjU5NjkzOThmNTgyMWQ5Mg
+
+#EXTHTTP:ZjVhMmMxOWFkZDQ4OGYyOSNAwO9PdBKu8AEmUHc1QH6KlB5PChMbUiPhqjTrzrSasiRRWNHqXi/uaHaiGuXZsTI1ZDlmOTg3YzEzZWExNjA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/5.dreamworks.png" group-title="INDONESIA 5G+",Dreamworks
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NDk2MjBmNzg2ZDA4OTI2MRHJGieTrqBe01TeNKsWqS0vBU39wLeF2oYCv3JaBH4FG88WeSxT7KTLx1EYw4+nGfIr1tnYKFylTk20y4e8PMuzfeehqSFu2XuLhpA5Em1rODExMmVhZDUwNWY4YmU4OA
+https://wakhaji.my.id/OTA2OWUwYWRiODk4YmY1YyAfHLN3UGr5/S2BTQ+Qf6jtSfO6rw8+02p6OX+25DfrQ4Ik/iRtVMLODiewSeSz937wNHKPR/eWrkACQsvZQcD0o5drs0RPYNNV+UY3ZKq2xiu9ILqx6KSnH6aw2t12dDljMDE4Mjk2YTcxOWRkYzA
+
+#EXTHTTP:MjkyODM1ZWRkNGIwOTYwMK6RRkW1by2qIAmp/+DvO2OSYJxp1eBH1N76jnYXJMC9x1RjBXWFHZikIxkktXTiFDhlMjlhNWMzMjM4YzI2NjU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/5cbebiess.png" group-title="INDONESIA 5G+",CBeebies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NjY4ZjRmNGU0ZTEyOGY5OGv8WJxaR+U7hJViBOGL5sf3zgScrkQeCTsw+nASyvrVG3NkujiKlWXmEdSuLESS0PgXHXwx9UL5HeHFrHVK7UHY2B3OCane7jK8h0++kLbUOWYxY2JkYTQ1MjYzZmQ1Nw
+https://wakhaji.my.id/ZTU3MDgyNjdlNTY3NDUyNiBLl2W4hTO8JgMkjPURJrpBuQL6O9+mB9ccSC5Ew9wM6AfPkd9PIx3w+h8QRe5SFU4hvN0hV6pj2cL6ECkGzkPyzEmFCIQLnNGECj8IjVdsd0jKfih6vjfytuzaR3gu+2ExMmVjZmRhZTQ4YjNjMGM
+
+#EXTHTTP:Zjg0MzViOTY5MjE0OTZlMIKR3JGnlBaURsiXQgN6DAuwGNooQ7Lo6gZFaicUq32p4oHvXEYOvffJ+F3yLWo5MTRiMDVmMjEwMDE1NGVjODk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/5.nickjr.png" group-title="INDONESIA 5G+",Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OTc5MWY2ZDJjNTYxZTEzY7y0Bm1nfX346jZRXpHQuyfKuSRU7f9HnUTWN9TS8l0nhPdiM8wRB1pS6HD/6P1daHv2wdPyQ+MW0gxf2cougzzQ9ahIDsHhLrUNFVuSUtCPOWI1NGI4NjA3NDJjZDljMQ
+https://wakhaji.my.id/YWVmM2UwNTEzOGY0MmQwMGzknrg7BD1LQhucyuPCNTYAXSz+sBop21kLOlR2V+fkRPY0YpQwfrajLJ5A1rmflnG7SkZwmmUofOr2hZrP1DD01WUWdFqQWVPNVSN7FkqJ8gPNsxYgu2hfKwZS0+FkmTJhN2NmN2FjYmVjYTNiYWY
+
+#EXTHTTP:NDk5ZDNiNDk1ZWMwZmJlOGWYpweHRdHPK8sy2B3doSvFmDB8+BbQyT57KGMOFaMVfa+J7eJCy8n+PgeV9I9rSmVjYzE0NTVhYjliOTkxMzE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/5.nickelodeon.png" group-title="INDONESIA 5G+",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NTlhZmE4OTBjYzM4NTQwZrlg2lJFcNpgUkJIxrsbghN4MzSMRoC2orxyp7E9/xwLTYEwxrrGWO7tR6IU6KdblhLCSZg0m97Utw5Zo3z0/yE63sUiUtzpuFIY9IeerZL0MTg4Y2FmMzhjMGRiOGQ3NQ
+https://wakhaji.my.id/NTYyNzRhMjIyNDdiNDk4M5vUV98nVoGTiqAUXPegWEojL8NfjNF/wvq4JKU2Ysmbal6CozrH/gDN/eQKVgIdJ0cOKvfhikk0G5/kwsNrhHvDIiG7zfSJpSqsZlNv00CW/PYXCUYWD7CLZP1wy+gclmU0MzRlZjhkOTg3YjYzYWI
+
+#EXTHTTP:MDU3YWY3MGRiM2RhYTZjY/1bMWxAgafNDvmFUWBSZ3gtotkzzI83kXgQe5FPIWNzmQMHgqvX1U5XM0LTkqFoEmJlMTdmY2VkNWY5NWIyMjg
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/5.kidstv.png" group-title="INDONESIA 5G+",Kids TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NjYyMDIxYmY2N2UyNzg4MyAMSUpkhY2ZmmDcgRCWIWrIbk526L0AZr+EvUTUOy682j5ZW1gINvbb9ZnWzPW/22zVzeqqk2f9sEcGe1u9j8N47RWf12FD6q9mohefaMLXOTMxNTUzNzdjNjkzM2RjMQ
+https://wakhaji.my.id/NzJhNWJhMjg3MzA4ZTM0MGw8eYQqQVbaw//FfGgD51AyfC4Z+D9bV2FtDQHHhIv3Y4lgEvPImA3PrZVAq9PBmhd7oFkhr9oKt55L9rHKXGgQ+IgKXtY2uwldU9J9+8yhQw5XnMBtlKex7kJOTJMYYDhhNDEzMjdjMDg3YjJmNGI
+
+#EXTHTTP:NDVkNDQxNWY0MTA2MTlkN/3x1elN78w3zTnPBokkf4OX4iYZFANjFXAieQKUSPBdElFqBS7rzZQD8QuGsooVgWFlZWVlMzE0MzJjNWNiODE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/5.cinemakids.png" group-title="INDONESIA 5G+",My Kidz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NjkyOTZkNjg3MDU5MDdkMtUSeingsjH29oWPew4oDB7VtxfU48trv+RIinMrW6RRLwq1cpihhjbSpovacpx3dNQeKQOBSpLB4BUhEUtOBpdplG89s6OBLga1vKyCtBguZmYwMjM3MDJhMWI2ZjQxYg
+https://wakhaji.my.id/YTc2ZDIwYjUwYjhmMGM0MM4L07MsI/O9CbN68aS6wRpvS0pqqu5xMw1Lap4WbnlSQqFRiNy2aH29ZyGMBGGvFrwRlM+GAtHpaIVHkn1oTOY6tmdBxRIxlsVvkM/KjjdtNGE1MzYxNjViY2E3NTZhMw
+
+#EXTHTTP:ZGRiNzk2Nzg0YjAxMzZmZR6WAygriZtHVC3N6SUbnGDTNU+39huke44abOByws4nbZBPzVU1aqAWkU1JSXYmVDZjMzc1MzNhYTlkM2M0NjE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/7.musictv.png" group-title="INDONESIA 5G+",Music TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=M2FkMzY2ODkyYzI0MGMyYuGSKdvmqgQ/xQfST2rFrPRn0/G+n1qf6Qyf02tJZcM1xC1jIDukq6Ja9XRvk/e8P0v1zk2fV0gI78l/3OG0ru8gT/6pN5l7mh/Y/Ju8HKm5Mzk5NWEwN2VlZmQ0NjdmNg
+https://wakhaji.my.id/NzBmMGVjMDEwOGZhNWVkN/FOz9GwMabJ4KDhaqWYylKBc14846dGoZ9PMmr4rYIRErkgI6Q3wSVNEQWRzX2IZd7rAeimy6iEOS7MsLDJwTxQLG8Fh3PNKwTTp3Ep5f/sf0Gpf4j/yak2MtFz70LFeTA3M2QyMWEyYmYwZTQyZWU
+
+#EXTHTTP:YjMwNjBiNzUzOGNkMmZmOLewJG00TyAxAKz7su4GguLXyEM+TbvsZwvxiJtcleNRf0MHL36/WF0f/SpILjtBm2QzMTJhZjQ0M2E2N2NlY2E
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/7.mtvlive.png" group-title="INDONESIA 5G+",MTV Live
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OGMxM2YwZDhhMTA2YjczZKGy0AsWgwqLRIs3GP1hptum7YtyqYlMCE+5G2FJxntMmNqRhdOEddGVBtKBA6+2xccYsT+/Wu6qJn7PBWrS2wYPZYDBiiiOi4SeJqS2DcS5NjkzOGZkODYzMzdjMTg4NA
+https://wakhaji.my.id/ZDA0YzZlNWY2ZjM0YjgyNEEGb1j5Nzmea8inNEZ50XrJ9E1UTyMbpTylZGiino1qnVEvgmDyB3e+Ar9fDcwvaUCpmMouKvlZpnlMkgfnJLcl1wc3Kql7ugNrzP79wy2KMmE5NjJmMWE5OTIwMDMyZg
+
+#EXTHTTP:NzdlYjQwZmY5YTg0YzQyODUODly92SBF4E7rR2SyvoaWusYFpXLGihYMqqC4zQP32VPkzMRSy4W5x65Ya43N7DA4N2I5OTk2NTcxYjE2ZjM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/7.mtv90s.png" group-title="INDONESIA 5G+",MTV 90S
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YTFjYTJkODU2YzE1OThhZDfOyXUVneMQqZ6H91515ViSO0/+DmI3v9uToFjEbAkQkxNDcvY0h6mtHy7TMhKIZY+3LumqmX7uI/enFViDJlbxYZlpDp3VJToQCGew7ymvMTg3OGJkOWVjMTUwYWJjMg
+https://wakhaji.my.id/YTA0NTQyYzIyZDlhYTgxN2U7yslR7ur+ksdFwJhC24ZMbo7WYBB038rjmAzQ112fVkHURFxZeXj9GQrfzVXTQdVdFUZnKxXpllVAF/qF1dEUbbGeQxpv9X3bnX5HcqYlIuz4d08P9+n4HWIe55S4QzE5ZjdkZDk3NzUyMDFiNzY
+
+#EXTHTTP:ZTkwOWM3ODVhNjRkMDI5MsCF0pxPy2kfSDbu47lQn0I9KXWODTHKz52nmOCMEan4E2oWnT8XrkDxlEJs9+RcFGY5MjkzNjZiNjJkYjVjMDI
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/8.alquran1.png" group-title="INDONESIA 5G+",Al Quran Al Kareem TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OWY5MWMxNzUwYzYwMTg2OTeW8EzWuJxme3jXwTtC82PL57yD/SPUQrYqlwhukMhpzIN+zyXRAOcqQleqXf6dPvAhxzOgRfeKrAP+d+SwupmGfd1oIq6eLCsTo7Cgpo6fZGM2NWU3MmVjMTA0NGExOA
+https://wakhaji.my.id/MzFiNjQ5MWE4ZWE0OTY1ZqdNRyIsQfwhtuAbVMmkTkHxsBSNwH+uepiVVrggYDw+UT/LC9YAf8/sC80FOi7kAk78tNjhSTE+ch3oKFVR2D01z8odZ+sq/hVbypKj9e/L5jNSVsUCB6l9OZrJI761QDUzZjM5YTVlN2EzMDIxMWE
+
+#EXTHTTP:Mjg5ZjVkZGQ5NGQ2YWU2ZVq5hErmzmfAzp5hfXnakYy663Nb8hHC8ip7D7Zjrk8ul8oPaR5i5/eEoFhVrQoOBTk0MDY4YjI4ZWFjNDE2ZWQ
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/8.tawaf.png" group-title="INDONESIA 5G+",Tawaf TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=Yzg5Mzc2OWYyMmJlNWI4ZvwlnvDi9zWRYctPdD8TiQXQfFk4hJlvRsr6wTNyzL0gOwSWoMr70TDsfnn5/7NNV2H03Rl/ZqJqoNX46cjIw7yDkdr/dnMa5d2XkZNVQG3wMTQ5MzIyMGUyNjhlYjdjOQ
+https://wakhaji.my.id/MGI4YWNjZDJlNDM1YTIzNqC6X4GRzV2629yLTkt19jspSWvB8W5Jls+pddwC+pTOQ9wx4h/RuSs2hKwidtoUYU1gUQT844equjUT2XnEUcHTFqGF1L0+N4KKbtcSKGofYTc1ZTU3YzY1MzMyY2JiYQ
+
+#EXTHTTP:Y2ZlOTM0YzVmNGI2ZDNmM0T0eLjeXu8oZgy4AUMZNGnesiK4Q2AH+nSZokb3nhepFTtoLLn6jPzyg5Fak39M9jBlNGM0NDBmZmRmYTYwMTE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/8.muslimtv.png" group-title="INDONESIA 5G+",Muslim TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NmNkNzhiZTJhNGYzMjYwNxg9DPncWErNkwcd3TBDIhlNEiZjk9U5WpzskWULpdTxhkwLzPXbJcO8XX2YfHtgv7zDS7MUGvwnY0vf5v1YCX14xafg5TBiLZxYUBE+FzlAYTk3NzY3NGEzOTgzZjQzYQ
+https://wakhaji.my.id/ZThhZDhhM2U1YTNiNzI3M5TEYkfTvc0/4bw6ENMbw2kdbinD2djDNYJTbBAM0hllZ6p31ywAunrGle+0inkdsCAeT1C6ICUeHqNJ7DbHuo4sUraivtN9Zdva+qRs+GQe+OUokE7RnYZJLeSE4k0O0DJlOTExYTA0NzhlODcxNzM
+
+#EXTHTTP:Njg5NjhhNjQzNTg2YWNjYmpBYET/Ew7ue+17g75FqfrsTLxUjzjMbb3PvODvlEbBpnaWSU+eMni/uJwPIYxM2GI3YTcyMjMwNzM2ODFmZjU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/8.tv9.png" group-title="INDONESIA 5G+",TV9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=Zjc5NDIzMDU3NTUwYzVlN6OSeqSHHRnqGVhkBHeUtoge5iEFadbT+lC23mNS1FZoLqTV1q6kVUCMZIsHvXLepyjUMAjxklbEaJPA2PMW5HAcnlrGS52Uy0KAt4TRrGR7MTI2YmViZDIxOGIzN2ZhMg
+https://wakhaji.my.id/OGUxM2U0ZTJiNTZhYTEyNxMURFFps1fcQhM9nwzkANrb17MFfoU5eOByfUK7NVi0LOM+vhGkvuamvwijNFgwnZVw+tfpixWdeAwuqtJ60//HnIqW8T71kzdaDOl51oU2NDUwMzdjOWMwMGY3ZDg5Yg
+
+#EXTHTTP:MzUxNGE4ZTY2YWVlYjdkYyOtBz8L5NDARhdM6e73KvWR0L1xcrQGd3y/JOekrNY7H10/4m0Vk24NMqWO363VrGFjNmEzZGFhMTc5ZDFlOGI
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/8.life.png" group-title="INDONESIA 5G+",Life
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ZTc5YTIwNzEyOWY1OGM1YQpG/QPwdrrY8F2dP573QUkxWr/4M/7SWPfX8NDVBh2d6KjqusNQz0KxfmgSTYCLPUS3GSPw3kZlBQxtnyu3uwnmkSW8l2TJdqCsgzCg0FECMzg3NThhNDQ1OWY0Yjc2Nw
+https://wakhaji.my.id/MDNkMGUxYjQ2ODNkMGVhZqoyYYG0J3Q9INYcewrC7Ia3gjX5W5gQ9otpayam8RBnROPRAWRkFPpkwC+w6kt3vAsmrtNIlRR68LcVIFJc/aoCCaQpJ69x8XEaqyR3SqfINTA5YTBmMTY3NGY1MjA5MA
+
+#EXTHTTP:MzFjYzFjZTc1OWFhNGFmZGekzEPoIYshzFHalkAYls8+D1bPnmC1tjBOb72zruL6EXUOPMJ31SjWkgNmqdG5fTI3ZDUwNjYwNzU4YzY5ZWI
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/8.MU.png" group-title="INDONESIA 5G+",TV Muhammadiyah
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MDU0NzcwMWVkM2Q3MTMxN6ctmN27ZzeRYYsDOjlzKJoQ4jtF2rcCZrcEw+rSRPcnXPS3CEM3YXOvWPfzsY123Xqdc/uAIMH39XEBUD7FLYiDfW1poeNf2myl145UNsvrZGMzNGE0NTA1NGYzZjA0YQ
+https://wakhaji.my.id/ZmIzNGM1NDcwNTMwYzkyMW3GCjMKIHXTj9A/d4R1zqDNYmfH7rvk+hBgKdAIe/3NJaqab7YoBpdFNrW7l6fEZRImbyKONFndu/w6cCROV0IrjrDouvkeDfbVnA/g+o+wY/hjjArphIHqQ5QRtxxvmzU0ZTU1ZjcyYmFiYTBkMmE
+
+#EXTHTTP:ZjNiYjZjYWY4ZTRkZTU5ZS+V/tVv1nB/Qjb3qMOlZF33/Xjk58P2lrYOmDhw9LVLbSuQBuD49eQTC4yUmMMsxGVmMzc3ZWYyZWViOTdjYTQ
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/8.ref21.png" group-title="INDONESIA 5G+",Reformed 21
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NDg5Y2Q5ZGJiMGQ0NWQ5Mtv7+38NiWaqCD+/1h79ptsUtG1q3fmHm9jSpKwgCVNhvITADDahQON68E9OQ1PBA5yjWTPSnInYPa7wuM+1lyvtvaWLHuWl9WFdTI/0BYehMjliMGQ2YmJlM2YxMjMzOQ
+https://wakhaji.my.id/NWQ2YWI0MTIzNWNhYzExNVCEjgSMGSCJzX9VuiP5wkxmxq1zSNQ4MdOk07KX2BGURbjqEIY/x4PHoQVpg9LjdoSADjjB+lLUj2i0yNhDiQm8YD5LOsZJbsGZ1b0MmYYGW7yKDkHW4SZWQ3m2VD8g5jg0MzkxYjkyNjk4NDVlMmI
+
+
+
+
+
+
+#EXTHTTP:ZGM0YmZiOGM5YWUzOTM0MH8vetJxEJ92iiv2PFaiuuVbGhEvP6T42ZI7+3OtiPFD29l9GRi3uEOJG895vnIG1zRhYTcyNjY0YTRiYmI4MDA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.cinemachi.png" group-title="INDONESIA 5G+",Cinemachi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OTQyMTU2NDI3YWM0YmQzY/7q264YEym7vKSYb1njKXyY4alyScm5MFVejLaFnIogDnoRNIQGwo43sUCl3K9+3KfJGZ0ruBfKr7yYYVQ29mBsARJlRQJjfoxgaVcS8YbgYzAxODVkOWE5NGIwYmU2ZQ
+https://wakhaji.my.id/N2JiMDY3MjJmY2YxN2ZlOOem8PAf59qQBRzBPSgWI5jrz/L7ikuuETj7Ujk1ZQVLT3cVr3d8pFU56n6haUuNxSn9MhrmKdfrzseDE56zM1sQ31AUSACN/OVhBrubAJ7nRmZSodZ18Jd9xgORXoFbfzMyMzg2N2JlMGQ5M2QxZGY
+
+#EXTHTTP:ZDFhMjc1OTZhZGQ0MGQ2Y33WQAdwApX65qTARjuUv8uyG20GMRgC28BK7SF3jJlzjAhSDC4pYkykFhgbmFktCTg0YzExZDljMWUzYTRhOTg
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.cineEztra.png" group-title="INDONESIA 5G+",Cinemachi Xtra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YjllM2FiYThiMzBjYjk2NQMBMxCNnV2CtU+uL5xXqPyJgOm37C6gzOq2g2mX7CZpg/RGVO93iEEEWThT6UB9tmCGkhN2nl1Sn5e12IfkFtPyw1WJ60B+04WxPRPFBFWUOTViZTZmZGZjNWY3ODk2YQ
+https://wakhaji.my.id/NGM3YTZlYzI5OTFiOTAwYqlb+QfABPVLSbjnG2tl6EV8c5h2bo8LNjQmC7IzuJX/wat9UrBrbV7+lMdhKzBe9Zel8ED5KiAXI+FQj0sOY0e197IBKgZ5mkc5cTXWiN7Z6dnMgQkLQ33Wh8KobVfB/8dPRKrLU8BmKJtkvhAS02QyNTRmY2MzOGY3MWZhN2E1
+
+#EXTHTTP:ZmVmMmJmZGY4YWMxMzg4Mk7ZX88I+9tdmyQ/Lb8IqyQfZ712czKR7vdPsfGBnzIlQoXIUwHATFf7GF6Mnvu/oDYzMDVjOTNkZGFmNjFlMjc
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.cineMAX.png" group-title="INDONESIA 5G+",Cinemachi Max
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NzY1ZjY1OTlhMTYwMTg4MMnX3XQ11yaUtQlZ2Ewr97PD/fErkVLwUgVFveUkYOMdHspyMMWSuznpTmSVCV4u10plSATf8ODSXapQElWu68j3DH4iivqqHpi32XdaafXaZTU0ZDk4ZmY3ZDlkOWY3Mw
+https://wakhaji.my.id/NTkwYmVkNDc2Nzk3NzkzM/W8pAhQre0akiUgXsDH1ARjKWhje8IxdnFrfWCVz2dlLHcRVxOIameGKD5ciqPUjn3uvxMnpSc5GIBvijRCaX9HECeVq3PG0Bzxwu8VcLd5W4WEPtRRmEQzZdVi3eP2B6X67MsdZHW5ABNjHZWnnBRkZDlhYmZkNmQyNjQwNDkz
+
+#EXTHTTP:NGFiMjY3MjRlYjUwZjhiNG6GsQ10GtTKbomb/0vpXLdO3AyS5AhV1w1q1vpNa/PFm9c/3ebpW0ALVB9+xSuAp2Q5MzYwYWVmZjY4MGNiODE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/5.cinemachi%20kids.png" group-title="INDONESIA 5G+",Cinemachi Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ZTUwNGExZDYxMTFkYzEyOLAKDmkzzhkABmZrWTYXCzpDVniPWfixkyiOxJNFDolFMb3JpoxUGMraXWnASttGqf/udQ7nDsYX/68yYcAvKpJQbcVz9N+nw9GTg0Xc17ApMDM1N2Y3ZGU4NGI2ZDI0YQ
+https://wakhaji.my.id/ZDA4NDMzYTc2MDE3ZTg1MBjfTDvKPOmvC0UsXyijXuqVkALCU0QXxbifashRPaULLoKM+ChC/ynir2jFjxablxtPjKrmFZCn0ZU2UnMxIdILlomiF7jywujePTTJXuTf3p/ZMbzd0ilXFOFKQSvSvd3T1xL7GpoKd7RPp5q81WwzMDk0MWQzN2EzNGQ4Njdi
+
+#EXTHTTP:Y2JmNTk5NmZmNjQyZWQzYnv0tmLQUmGu3mnxizRyvBNA+gaN6yvNr5YOJQOOjT/RCw6/Cz2PMqELTL4nvYGqFjY5ZWU2OGUzZWY0MTE4ODc
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.cineaction.png" group-title="INDONESIA 5G+",Cinemachi Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MWQ5YTllNjE5NGIxY2U5MXJq2Xo5XUl1e3hYRq3wVPhfq+pn95pz4oR9RmnGAFIY4e6h6xkFfS9nfQCASGnI3Sp91YB8dQqr7Qfz3WGMM7o14z4iypp0Pk9hu89BJSCVNjA5OWQ0NmE2YTY0MTFjMw
+https://wakhaji.my.id/MzE3YjY4ODk0NmRkYmUzOHRM26MBgUaQMJ5DJSNnntYre5hvdFd8aOn4cOaAE1w6wQSwbwPSkDU1Rh1CUBKWYYZm2ZK+oDZZ+m1afaOCWJ9fPsnROKlvvI0aBQbGw1hNrhVwg/Q/Io+TTjcKJSPdPB2QEm32y2GUDatAX2A4jjI1YjhjMmJmMjhiNmM2NjI3
+
+#EXTHTTP:ODg4Mjk5MTBkYWU0MDM4Y5+RoVCrslK1OW1j3VfLpClmDXiuoVZ4pUi6k3UF0wXE7a4W/UGrkiDqBI/L7u+hHDIxZThjMmY5YWNlNWJhYjY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/5.paramount%20.png" group-title="INDONESIA 5G+",Paramount Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MTQ5M2U0ODViYzYzMTQxMdqBZwYemHz17OjGF63n59Let089Nr33Z3lg19GNHFFLvx87wFk3NFyuQ7LpCwUVZCzifCKgbif7KVjcA2PzDkRSDvo9/u2d0Z3uTzCM7C2ENjI4NmRhYzYzMzdlMDA1MA
+https://wakhaji.my.id/ZGQzN2M4MDQ5NDhjMzM2MIR1j2twrJCE6EY6Qp1L/ZpzmCeh2+JZQ8oCwt3nhm8XwnxmcxlfJ0l4S3Iyj5gZFSSlkZiz0DJlWPlJfrPu7oBa1biwdIt5gVkjU3DqalY17KvU1cz4gnat2io8sex7Bzk2MGI2M2ZjMGIyNDA2Nzc
+
+#EXTHTTP:MTNjN2M1ZDM1ZDYwMWRlYlx6Vv1tLOd+3PrZh1pi6eOu+zPFhGOsgse/u0tcFp3pOkozAc5f/waezgnbpjm4SGFmYjgwMDAwNmJhNDdmOTg
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.rockaction.png" group-title="INDONESIA 5G+",Rock Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=N2UzMDg2NzUxMTFjZGU2NHUjao6D89QUFkcR8aY8quj7Ls3FB0gulHD3DXfRIBxqMgGNh64HlsINKg2jjmxikmrFDzHKEiwpYEPPbl+oit8a2WRA6G6eC6J5UONkaSG1ZDcxNzAwNDM0Nzg3OGU2ZA
+https://wakhaji.my.id/OTQ0NDBiZTgwOTUyYzUzNESBCyGiD02YqG9S0Pv8ReVfQnNeceNbT/QcAg3V25UB+YfbGttlzzmwuh4n58ttxwK4gPmGXMlrPgk7DfJwbIoeWz+fTDrf4ixxguWe+Amd3tjbAXiULf76mVmW8SdGdmU5MGI1NDE0M2UzMTg3MmY
+
+#EXTHTTP:NGEzYWVhNmI4NTFmMzE1Zs+lijxBML+U3HHlC072qwbGdebtpWAseDP2TOULh82gv8RfO4H5j2en1dgscq5QZ2E2YTQ5OGU5YzM2M2QxODk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.tvn.png" group-title="INDONESIA 5G+",TVN Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=M2Y2YzU0M2QxMWMzNWJmNaiQEcJRXiO2DbsnJz6LIU7QonQlQh33u/+ysQP5x9FPD327ZhnEN9PJGmpjmBn6Rj4+Az1waCItFLe34KCN1XsS09qtoMokSu8ItDEIixYiMjQ4MjAzOTYzOGMyOTlmYw
+https://wakhaji.my.id/NzI3NWY0ZTg2MjNkMWIzZkx8nr3Kc116VKxzkmxy1aMPPvN5c/P+PdfI1jIlGoaUHoH7N3k1zz0bqaOsG/e58e7CRqJqKG61Yc5G5XToMdR6eQV4HPvWmNMerPZHckfmEh/0/5jFTceiQGLcam9wfjVkNTQ1MGRhNTk4NjdhM2Q
+
+#EXTHTTP:ZDA2OGE5M2JmMWZlYWJiML8wByHxycy/GXyIOHQlL+ot6QqzN0BKom2Xn6E5OLPQJLJCteF1Zhd0j4guJp/rnTY3ZWZkMzkxMTE2ZmRjODM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.celestialmovie.png" group-title="INDONESIA 5G+",Celestial Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NTIyY2E2N2JiNzA3YTNmYYsMpldlQo9Rh7Aa787lfVh/NC2vWVmgsYTnWB7RPccOHTnPg7S3/Zq1ms7iI9jSauQw5aaUb/yTZsaytVFhfA8a+QTOFoa4AHl0/ODYmBMYZWE1ZThjOGVkNDcwYTEzZA
+https://wakhaji.my.id/ZDhhMjg4ZThkODNmZDQ1Y7Z8MUOS7vyorrJNoRuFTk5f2w3AFogk+rezPiXkIJHQcoTUro2EgxKNq8CAa2QMAAVjO/whjm1lnzYVwXwXs8UovGl8/TzKXCRfFmbJOXM5TERXa6XtByYfFR7rw341wDJhZmYyZTExMDQ1MmQ4YjY
+
+#EXTHTTP:YmZlNDNkNTVkM2Y1NDIyOdoBmeWy7cT7cRwkzEiMnXk88ssI9LFRX7kdwQHTUZT8UE8Q4AAOaKRNJaoS0UW6sTE4NzcyZTk2MWQwMDNiNDg
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.celestialclassic.png" group-title="INDONESIA 5G+",CCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YzdmMzUyYmQ3ODkwNTBlZQLHD2fb9EqF/JB4b6oN5d5GS4YfhrCZ04OOkJxCbQYEwL9H1mwtHS2JT5lIbV3ZYCm+U6Wns2LoqyGCu6MCVxvr22yEoRdWha/y50qxssupZDRlNzFhZjhiYWQ3MTE4ZQ
+https://wakhaji.my.id/MDFkYmM2ZWI0NGVkYmIxONcZoOB/vHIB7vJKvFAFX7gX2JDm61IDkaEDg5bVh/VDbiuW/sOlXHJHrV3xTYLLenseo++2yv3lJIvsOjev55Uw41hO7ftBDfbf28VH2fBoJxH9vc0Luy+jy2cGtCJA4EOWjLnvPmPKFeEQfOvSqDQ3OWQ4ZjU0MzY1Y2Q1NTI5
+
+#EXTHTTP:NjU5ZGU2MzRhNGUwN2RlMRC7lFvvMJd+VtB/ECdyY3GBkwEYX3bpO+PwJQ85CvbseDGxM1dqdWa0h7/jRZgwSGQzNThhZDg0MGMwYzc4ZGI
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.thrill.png" group-title="INDONESIA 5G+",Thrill
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NmVhZGU3NjllMzhiZGUxNv2/psFi6426FKZpvMzYmxQlUV97zShr8/hmFqrSxXn+sIJ7uU6RUX/aX7RGA7SEIvADE9rbOlEYmyqajMEHNQCNHJs32JMx27ESqJM85KGgZjFlYmE0MWQ2N2MxYWFlNw
+https://wakhaji.my.id/NWI3OTZjYWU5YWJiZDFiNy0HDGvi9niuzK2xyYc0OKOiB4NtgMu5VLKRgkdFmgtsw0v137XjqBZJ2hLZ242reV7D8B5veU95pC90VwvOeCpUJ3GRAt18c9H7fBz/ceZjNDM3Y2NhMGJlMTZhOWRiNQ
+
+#EXTHTTP:OGNmNWE3NzJkNDdjY2Q3ZbBCOfN1ZjbUwNkpyHaYMPEivdGaKx4OSMHcbMIIdIvNTyhqZ75DN8XleBFp+kHQWzBmZDAwOWZjOTY0ODE2MjM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/4.cinemaworlds.png" group-title="INDONESIA 5G+",Cinema World HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NDZlNTFjNjc0OGM0NDI3NQzhj+pxJHZ6RVzfQDe3VxbjuvsDb8fWQRko0L3L49+BpwTXwTQlgjUXtddBhT/Cur78Szxr9gNOAtUxdqp6TcJt5dJaL/Td2JsM8jsmraa2OTUwZWYwODEyYzUwYWQ2Zg
+https://wakhaji.my.id/MTYzNzNiOWUwNjFjYWRlYqbeyYvKZRrmyKFEGQ1djmg+O4Mw/45HLloHJnE0W59pgJlgJnrbb/2uSiushcs45nSHys+h8n9LF4dITc+dKw3j4pY2HNpT9m3mqvI7zKMxFBcRT5XBJjoCK7k8vtqQKjczNjdjMTIyM2MxNmFiN2Y
+
+#EXTHTTP:ZjBhNjk3NjExZWQ2NzBmYVFYmQMFIX6pkwLbqu/0H8GuCR6Wk+eLBAqJ0qBEaWL0XUbsoXpGtJtecxtFH029rGZiODgyNmE3YmM4OTcyZmI
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/4.hits.png" group-title="INDONESIA 5G+",HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=Nzg1YzYxZjUxZWI5MTM1OVP74HDm5ebOLfdxH3m681WkbQIbjwGI7rcJSUWtcj6dB8CG0R8PpS2+oB8kL39KUC3junOKUrTGl78O66XZoqBw7TDLXGmTzawTKuYH+f2AMDE5ZDU4NDM4N2IzZGMwYg
+https://wakhaji.my.id/N2Y4NGQ4NjAzNzRjMGY5Mzg7yOo0uPIeRQlriLDjpp1tdQvSYqVxJkC/uYBX2pSzASl2arBvidYPreLGBRX/IYYCr+5+dyVX4E4SdYhDIuGC+ayIvHDCTqtkO3jPFxg2qIOVWTzzlwQLdN5ThVVesjZjNDQwMTJmYTIyOWM0YmM
+
+#EXTHTTP:NDEyYzJmZjJlZWI2YjE4MTpjXh7x3LnEuw4T4Ip8lf54i1GKek3zdcsgKUcM3ZGbfuB2Gh4WUrvdMWFtbFn3ZDVmZTY2ZWJmMTQxZjU4MmI
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.imc.png" group-title="INDONESIA 5G+",IMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OTllYmJkYzc3NzlhMjljYzP1HsMYsREQ4C7aBHDOGbLh1aGxyD/XJbSm9pKAvWJH+pD2EhW7kBXTz6Y7h9iZ5FQQCA3IEqAB1PBXZelPHOo6tEFAcquSnELS83Q7k2oNZWNkYTAwOTM5YmY5YmNhYQ
+https://wakhaji.my.id/YzBkYjUyMjQ5ZjhjN2E0MOzxHkI6izvcDPCQy9ZDW0zqXTqBN5ZPYgwH36iY39EC9THj3hFYk3K0azI7k3MWAEwvB0PaRq4pZUZLRcrCaR6FaTEU7HEikg+9lkaO+8f5T7npcQIeF/as9heewi+BtYnWE63tfv5A0sZQVfzbJB6F6iBCnsQeJ4LQlaXDCwo5MTU0M2NiOGQxZTA0YzY5OA
+
+#EXTHTTP:NmMwMGNkN2ZjN2I1NDg5Of+o2qRDzlndBfVCvV6h64RRU5suVSU9ai0ywgjF1GVb0oKXvHScwMOfEX/AKB5uz2JmYjIzMDZjZmQ5MGM4N2U
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.galaxy.png" group-title="INDONESIA 5G+",Galaxy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OTlkNDM4MzJhOTJjOGZiNkbF11fF5jpIV5Kf/Evpi6o4FZ2ucm93AiOBNgH/R7dj7X20CNEN8JrhwYH0R9hKN3ILTWun49JN7HLmZ3QIFlfEcjoCk5urh58SuQH+5s4vZTZiM2I0OTc4OGY3YzMwNg
+https://wakhaji.my.id/NmNmMzljZDIyNzAxODhmMi9AhxYoBLKW9s6lLbeIjWM0kapOmR9YZGFVncuPSVq49vN4GTeAZ0affWG0iGn2URZTaYOCgMdqaXGy0xSkXN0wLA4xWdDcL9hAJuKJQJCKKpeqREISbclWzDEkYLE10Tk0MjI5NzU3OTk4NTVmMDI
+
+#EXTHTTP:NTM4Njg1MzcxYTg0NDU4Nl0/N3OD7a0OJ8p3xFXAV+Upp1gOUPVxit4E2xjS9y4FQyKVEWnupkgGVbWaUute6DBlZjY2MmI5MDQxZjE3Yzg
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.galaxyprem.png" group-title="INDONESIA 5G+",Galaxy Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YzY4YjVhNjNiODk4YWI4OeBFogfZdLvgts2O7navknMbedPBsKSynxxzQblSDLA3KcYZwPa+tmHZOMjjNSiHwzO0pqeVoeBgcXjeTK3sTIw4Cqxide+OpSgAdMbIPJrIN2NiZWE2YzY2ODc5ODExZA
+https://wakhaji.my.id/ZWYyZWY5M2VjZDQ0M2RlYttfCA9EDohn4zIF/Uo735etVDWIopy1tzBKfiMRE82vDTZVyHeU9q46pR4cau2xqCMmXWfqKcBqBL9LQjyC6ApD4gcpou7502FRuKP0ktdLcxrMZXf3f+eWxJ4eCwL7pdoEXyfaFwhnJ4qhKVYU5+JkMzAwN2FiNWMxNzNkMjcy
+
+#EXTHTTP:NmY3ZjE1MTUwYTI4OGE4ZNjg2gRmmEwGBZYPl1Is+HvtiBAy6SHOgW7n1nwKenBdLULGts/ZS5otyUf+fvGc8jkxZmQyMDUxOTYyYTE0ODE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.cinemachannel.png" group-title="INDONESIA 5G+",My Family Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ZmU1NzQyMjVjMjg0YjRiZhv3ZQGP8mDV/UPe0spA9klVtY16y5q2CyTPWpC0+Y7AXLuxD47iKEzSZsWgB66SXWo3Rx+aDNP4AqGms1lIWHhizCcM4zTJVO+g1tV6ICxdOWI5YzBjNjA0N2IzY2NmNA
+https://wakhaji.my.id/OTJiMTAzMjVhN2Q4NDZiZZpLZ1JCYN3B3+uPlv6WzfM4Z63JnhNF0JE5DtivHod5hPR1tHo2tNrHJVlMA8LPL+bwHxKuQPvfJFgZtJ36AwDtic54rwHittdc4QKC3bwun/flOk29kLNf0S/nM3CSEDY4ZWUxYTJmNTE1ZjJkNjU
+
+#EXTHTTP:MzVjYzFmMzNhYTg0OWI3N4Fz50px0vGA7RPo9ofY85HWrMNqV4PVyQLp9OZj6erZHdk70EkbSc2nL1d39KvCgjc0YjMwY2NlZjMyOWUwNGE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.cinemaasia.png" group-title="INDONESIA 5G+",My Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NjEwODI2ZTgwNDU2NTg4N/QSSn2Xa8hXK9rO0jvnmlxIyV8IK6MNTp/zT9x3XW9cG9sGRe8dUj84kc94IdDd4zi2MpV+t5+bgYoqaaCqwh/ivPRopMVlItCJWuPEcIkgNjgxNDkxN2QwOGNiMjZhMg
+https://wakhaji.my.id/NjU2ZWZlNDdkMTI3ZmIxY/4odgPG+Mxqfjx/vYYvNuAuG40Ac7pHHPijpVO/W3ZQpQtvT2lJ0XZIiFr2GYwbgd/uChLl+s2pJ3lOdbEkcruevOeSHPH3jmRWf2Bf342w2DTkv7wMprsLYcOOLev3njVjN2YyMmVlYjYxMzg3MmI
+
+#EXTHTTP:MjAwMTljMjZjOGJmYjYyM90Hrrem0rhOtEKnrSNvaNJXWEn/FqKvmywGAs6FEpfiWwD1yuH8q01N1Lyjf4dm5DVmN2JhN2UzZjMzMzMzMWI
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.mycinemaasia.png" group-title="INDONESIA 5G+",My Cinema Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YjlkMzlmZjE2ZGJkYzVkNf16cCMUvVzFkEvLbpG45+8cEOgODrQXgtKgtmErQULNj9pZLwHCu6E3SBQpBQKrGvy/HnYe0lLvmzexfZb9EjNWrSvQtm48C1uvoMqWr2e/YmI2ZGRmZjcyMDM4MTA1Mw
+https://wakhaji.my.id/MTFkN2EzZWU2MjZiNjI5ZTLQjMebzH9o22W/4sTHIBSe8DvKz0DHlDKQK3CBIM3CG1lK7NClG8TJT0wjYtHJvhcm/R3k7d7+qdka13AFqVzK9QblDtUB3YZUJSWaOd1CH9gcW2gugrUahWQpR0pKDDc4NWQ0ZTEwZTA5Y2ZkY2Q
+
+#EXTHTTP:YTVhNWQ4NzUzNWE4M2VhYpFn9RV72SfDqh4zeXZe+aydPHi0nl0U67rVh8cxH8+CUmS8Z5Xjimo+2cVqTQExVDc5ZDhiMjc2ZGNkYWM3MzQ
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.zee.png" group-title="INDONESIA 5G+",Zee Bioskop
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ZjM2ZDdjZjJiMzU0NThmNLxnH84EZE5oB2IgAbv5GSXzcJiKl1SLYhNyylYB+W+jYuRWx/WEMlET/FSy0OzvjOtkiiA2mfrO+QvO+bbJbxgyZzsP9QPSUFIloi3S+G+CYmE2OGNkNTAxNTI1NjFiOQ
+https://wakhaji.my.id/NzNhZGQ5NGI4MjNjZjQyMQoPZiqx5/12rPL8UauhiFzzUygR/44uC6iP/Qll9zYkMj2lf3XvDfMZ5mBaLTuMoPDEe0uSztTVyiQFHxzyTwz4Ao0HbhGVWoU5KulDsuZhnY7kTj7IoF1uzyUZdIz9VTQ1MGIxOWRhOTJiZWE3MWQ
+
+#EXTHTTP:N2FjMjE1NTIwMzNiZWEwNwpp7tU/H1Keb8U/F4bpfRUwhwmWk1DzrIexzdM++6b5MyW1FHfsTR7YTIHwGssBEDczN2ZhZDA4ODkxMWZmODk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/4.tvn.png" group-title="INDONESIA 5G+",TVN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MTkyYTIyMmFkY2I1OGUzOLQjKIC1oOTHI2Szg8TWkgEMLtlMJUCefYEiIS4xYOmN5w8dJvozM2OMabcy7p2Jq0kCLkVj/QegTm/qpb7wudA3TxfNXXFgy8hxdj7BN5pwMGVlMWFjNzIzYjc5ZjJmNQ
+https://wakhaji.my.id/MWIwNmJhMDhiMjhjMTNjMCHFPWCD1f8bZZmHtQy+ylZKP1xvzMuvGG3tJJ772gM97A9iuE/N5jx+Jyqeeova1AUh6Aash+Vq5LL7LxadViu7fxY9keTza4GM/08v5ADlNTU4MDA1N2QxMDNmMWQzOQ
+
+#EXTHTTP:ZGQ3Njc4OTJjZjA4M2M4YcYauD5aDB9tk7XAeKzOrd5QuBvOPQhuBOUvT97lB0IitPvOBZsct+B/EFmW9qOqKmQzNjRiMTlhNTA2Y2NmNGE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/4.one.png" group-title="INDONESIA 5G+",One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MjZlMzVhOGI4OGU5OTZlYnvuQ9k21V+wL+nA4xVa8Zm27aYe2eYqM68vBdsytbZVkP1LF1o3NU+9iRHfiHDjmWCIDm8wta9VE6+mkkb80gQJZL0ZqqLN0pOpazlNQ6fmY2RlY2JmMGJiZWUzMTY1MQ
+https://wakhaji.my.id/OTk3NjQ4OTRjNGVkYjdlOcztd0Xd1jioyKQuptCUnFTXGVUtZtiUu28MVKJL32ZR7W826SY4cIkub/22K3AqTMr7hVoI4V74oHgzemOSrHobhB5B7E/3QzWQGyvMhKO5OGZlZGQ1YTQwOWY4YjIxNQ
+
+#EXTHTTP:YTIyOGI5ZmJjZDAzNjA5MXexLet9cAd8oy2UZupcssJ0QVnR98LECQYCQweYKeSsdppQHf/2WV17RkruLySqPTllM2Q0MDcyZmI0ZDJkNmU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/4.arirang.png" group-title="INDONESIA 5G+",Arirang TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NjVlMGNkZTlkMThkNGMyMqkVJCnFcPw82ZiRjigRJwivPhcdgfmZAJlFqdxt6XT+jS6IPqZQxGQDJL+dBCLGKR2WStO5NPHMa26s2azgUzWzGLTTfdZZjIiJ3R8cRVTjZDRmMDNhNDU2MDkyZjVhNA
+https://wakhaji.my.id/MGNiMTIxMWU1YzJhZThhM2TpfFlZftRhod4q49OY4SHhhyPB3QzuGpjVI/U+q/E8AGiPiVylK368mG9A5u7ju77C4AHii+PJ3BPDEMB030qDulLX+CnpVHHIQEKA91gkYzQxMmUyODNhZmVmMGZmMg
+
+#EXTHTTP:MjEwZDgwMWE4YjdlZGM1N5myLp52U31+Q083jpb32gS3ltA4OPXHGGaeJED62fPi2Rn0z4kvewtFNAYzdWDOKWU5YzlkYzJkMjRjMDZlMDQ
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.axn.png" group-title="INDONESIA 5G+",AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OWE3MTBlNDJiODM4YzcyZsNbewLyRIfkBfQYQRm87C9M00kwbrH56vDGRsyRo7CWXqDRaN30xIHFvN23GJHhhWmZog7pDyHk9rd9pkwJQmNtTk99dXVL3FTplI+tosuKN2I1YmU1MGY1YjQxZDg0Yg
+https://wakhaji.my.id/MWY4M2NmYTA1MmFjZjM2NNfeD82RwnHixlenNePX+1LDKH0u6VolKCsbhXVPIuUd82YfYbmNLRQco82jwjnY+yIBMU1VWbDu15jI1qw76cr7Z5Xk/Ew4eTCiHBQVpsXwY2EzM2I5Mzg4MzczZDA0Yg
+
+#EXTHTTP:YjNjMDUwNjM5ZDQwMWUxYSJ8yMxqppRno2EUzOmZ9H4y8JgB09ZIJW/QtUJ3hISn1/3qxiVsohFARj4fV+29lTE3NjVhYmUzYjY4ZWZmNjg
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.kix.png" group-title="INDONESIA 5G+",KIX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MzFiM2IzNmViMTU1ODc5OM2aqhzwg+TQf9T5vYg8npixG/Wtae5qx7wZ7rsbL4NR8QqvqecxGI0fPAb4Ou5dFvOkipMtzculHc5RQF8mqzg1uBrO0syyhLJUo0nt4RUbYWRhOGYyOWMzNzhkZjI1NQ
+https://wakhaji.my.id/ZDBkYTQzY2E0Mzg2ZjcyN7FF1onougwc5HHKarMkgyI234m5koDG3NPiAUDGUiPahEBXcyPXpsXEflWQioT6BzkTQkQzb+bg9wAydOe6d2SFVJE8Qak4h1uZLXLInic+ODdkOTY5YmRkZjFmOWRhNQ
+
+#EXTHTTP:ZWMyNDkyOTkyM2ZmM2E4ZFCb9EnRDalagVNFYHqCalnJGYRVv7I691UFxf8uyHqeysAKzfPU4ammM+qiFVO3wWJmYjA3NjE1N2Q4MWFiN2M
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.rockenter.png" group-title="INDONESIA 5G+",Rock Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NzE3MmU3NTc5NjE4Y2FmNEoOqo5wayagaEGyaoe0V5UsGKM6FhnrLbXvg3409TNt5DAR4c0xxfaNvoNBwodDPJvFFCGxMb1utCCes8dadLHq5ywy52OoxI3/HPVGWa0uY2IxODllMjdjMjlhMTA0Yg
+https://wakhaji.my.id/NmE4M2EyNmJiNTRhYzU2NS+yj3Xk7VBNXMsA5AFSxeIBg3IPM4XtAbkztCypE3iXdRyQU8cBfNz7jEzcC9Ipu/0kqVJ9WRSFQMOfPTIhARWX3kSXH4mykiVN3nTd29I9A5pzo55nEfjXl6JdS/k+lJ1EOszcXnTeIj4IQVKfjPY0MjY0OTdiZmJmNTdkMjI4
+
+#EXTHTTP:YjUyMDJjZTYxNWFjYTc1Ze8urUxTF0V2wxQmg0M4yj7h9ym6ADkjX7Oh4FKCeFyRKSMzDr/gJCukPnR0pNeSnmNiZDkzMDViOWVjM2FiYTM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/4.hits.png" group-title="INDONESIA 5G+",HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=N2FjMTIwMGVlZjcyMDlhY4iyYwtWaesKPfR8Ihe3ilKSoC3TbCm+45LjA/f4DUGuunOIvTjaQKzGGkGmm9DzPVQVu36atG61glzHbZ1s2qI2s4Vt1wnO+eymfP4h3FzKNDQzZWVlM2I2NmU2YmVjMw
+https://wakhaji.my.id/NDdkYjc3YzNhYmM4MjhmMpfqgg+wPHy0KNIY50Uoz+0AojIeXzBbJOOfv+A1YpKuTrcelUsQWDRYrFi5m1bfzhfxD5NVEfbXOr/ufnzdre63PXDC461NIo5vWGDVpmiGODdlYzgwODBhMDJlZGZjMQ
+
+#EXTHTTP:Y2Y3YmU3ZGIxNDExNjk5Nc39x1xajfy8ZvPoa02QLftrv37XU+oYD53PfQVwSstw9wFPFtRVdytN33z3yE+lAWM5NmMzZWExMzA1ZDY2YTU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/4.fmn.png" group-title="INDONESIA 5G+",FMN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=Mzg2MDgyYTc5MDJlY2RjNLOFp000J8gT6dQvdUf4v9rjyXZuDyAV0tGH9CHmlDpNaOFMaQf4XlKF8Xb0/C+zCRBiwY7mKLfqcc5OHHkuq3p7yuGjgx8tQYZ9b0cNGC3PZGU0YmIzZjZkNzQxYTAxOA
+https://wakhaji.my.id/OWY5NDU4MjMwZDNhYzBjYrVIXlGTD1vT5McSEdSB0YMVwkfzMyfRfcHzWnZZ0rcOz5DqKzs8tMKhC38WOGlSzy5FlLRhdU/Hg3wfYO1aUq2TWwA+ANMJcC1IyN8Cb0IWZTVjMGI0MGIwZDcyYjhkYg
+
+#EXTHTTP:ZGE2YzdlOTA4YjQ1MjNiMRzTkAP8IwdR+ZJXcDZhP466mlUY68FTR1IjcZH3GxuHYniXCto5pUtt+DQGKahmfmFjYWExNWEzMDhlNWYxYzY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.mncprime.png" group-title="INDONESIA 5G+",Vision Prime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=N2U4N2ZmNDFkNjExYzRiMM8Ys2p73iKBOSGz9qxhn4/5L2MmzERd7m8wZ9v6hqGV1r8t/Rfauuqu9MAyrGvIRssLYOBS2GpM4DhWvymecdTTao5qNDtpnknJAHCVw9szNzkxMWU5ZTVhZjg2MzZiOA
+https://wakhaji.my.id/YzVjMDMyZWI1YmYyZmQ2N8G5XliEzF4zyrfn/Tu5ykIRDIYJkXUa1/uMo0i7pyVfR57j5Zj7UgyhezjzRaC3OMr4kK2DdKzdOnK297jxudCITDymTsRvFjrlgpX1eWqlwpi8pcEGkixaSo0iFgVbrGE3MGMzMTE5OWE4ZTcxYzM
+
+#EXTHTTP:OWQ5NDZiMTdkMTA1YjRjMDDwc8oU5lPYN4o1HHF9qvVHBa/angmsolo/+zKnIBZaFmDkQSSfigqKDXXbpBeGqmRiYTYwNTQ2NWI1ZmUwYTQ
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/9.oktv.png" group-title="INDONESIA 5G+",OK TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OTE5M2ZmNzg1MjI2NDM4OPDipAsFTvSIcbp7I3yZ2T17hkKgXNapbjYKjtfyyGrVLeFvbtyOXQdxHYn9p8jDLAnRRgJO0DMkghU4A7d2e8D15hOMUUskUi5Ke+JTr2teODQwNDM5NTBmNzcyMzI3Zg
+https://wakhaji.my.id/YTNmNzdjZmM1ODlhYmYwYiPhZacq1wRcLNCfM1rqcwuvbl6HL/SraZETDk9/ilvmNCXCu80r68makOT3Ej06LIhJHu9UATNp8+QKxfcz8u+KaaF7QZGL/d/pMs2nSLTjMGIxYWY3MWFhNDMwMzZiNQ
+
+#EXTHTTP:OGUxM2JiZjQ5Mzk2NmNmN41TpeVHno/e/2PGTL0ZlVJpfMQ1nHC9wnM0wlWxchBa2mSrGyD5bwy+W9ZIbTXofWY1YzNiYzBjM2JmZjAzYzU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/4.ent.png" group-title="INDONESIA 5G+",Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YzJmNmJiYjMyNGU5ZmU1NSEGxhvvpxPIh6RkoalT8OTWg8UeQzs10GkbB83IqG09ILusabjWdnhY8LzD/641NIMuA2wfS0GhySdfC/WwZVKGLs0w4Fm0iSc0gr1ulRBxMzI2YTQ2ZWQ1NDE2ZTk2Mg
+https://wakhaji.my.id/ODhmMGQyZGM1YTJmYzk5NUxXvD86R3inAMGAtX3KK3UbD5o40thmZWKrW1RNNVYoEsD/oqShCGzL0c9AcSm69rDFSa4OVPs5f8ztJR+KLfV9cW2pu0lYznEHXx/zK+ShKpVz6w5ZuTc+pMPOmoTLXwkkuORGGFTmgmGX7vSLZGQ3ZGI5NzM5YmY5NzJhZTg4
+
+#EXTHTTP:YmZhOTg2YTFjMGVhMzJlYaQnyyHd8vqj3B/Ops7ShYdGM1wNTto+KvGc19Ady0KedQsS+7p15oYcNY/jU6gHsTBlN2U5NmQ2NDBiNTUyZTI
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/6.globaltrekker.png" group-title="INDONESIA 5G+",Global Trekker
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ZmU2MzhlODM4NTY0ZTRjZZruvqekwaRRM4pfPMQ6UY85clN5d1QwLK2KfRvSbvTw45jnTUH6aXn+3N6Hq1HBRv1mqcwgX+8UwDP1u92qVJeY4jvtriGdIlcdH0bge8x8ZmFkNmYyNDhjN2RiZjEzMg
+https://wakhaji.my.id/ZTJiN2I0ZDExZWE0YTEzMbqj9VyTPRjPp5aNBoO8K/BoSCBwxzNHlNF9cwsSen0JxuII+bC8enQ38twTZxGFhqfTcQxZIQJpIQSMY1JMgHq7V8IlbsnViIs+yvgBKNWluuLMRvSjzm0XWFFJSvVodjM2MDE2MmY1ZGZkNmY2NDY
+
+#EXTHTTP:ODhlNWM4MDQzNzlhNDU2NJxYKYF40fOKiVBoSGlp1+EZQbelvoFjIPN0qg/GM9Z7hiAPfYjLVu+0B9FSH2U6x2M3MTBlZTg0ZTU4ZmRjZDU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/5.lifetime.png" group-title="INDONESIA 5G+",Lifetime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NzA5ZTE1MzAzZGVkOGM2YcYVwLKU7PEB/QMVDPC8J4odv4ltDRyj3skCEEnlKlSKjckdj8ilI0c+3i3pYEyoo3uZHeN5tX4NcrKZ31n6wGf66w+py0Wdij1Rr3VovBJ3YjU3MDlmOWZmMmFhYmY1Ng
+https://wakhaji.my.id/MDE1MzFmMWQzNjQ0NDYzZFkLobbFRFV/y9DamocJmMC2n1W31sn4hUttgkz7JDr53MsvFMnq3gj+gDlqFaHJMbQngciMclNt0qX/LbAIFnUScn1cOjXOIQh3S2oKvkhcTB6pOxbafWhEAPGAJRQ1jTY1OGIzMzUwNTAzNGE2MjM
+
+#EXTHTTP:Y2JlM2YzYTg1NGEyY2I5N/cM6UjNQNd/jiDw+UN/iYBEUiY54MvR4P0EOEiZxx1YIHnC2zwGz58enX9jhRBOF2VjZDE5ZDlkNThkMGVlNWU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.okezonetv.png" group-title="INDONESIA 5G+",Okezone TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OGU3MjA5ZDk0Y2U2ZDIyM1lYSxQrXFy+HocSigotVJN9rCyZsPoqo6qsQzsEWg2nxZCcmAiJlVRFmWFnHkkcNf60tTNrtRlUWgztNabqnlI7AeQh7+9lFMkRZttmbkkxYTM0NjZjYWJjZjAwOWI4YQ
+https://wakhaji.my.id/NmU2ODE3NTAyMzEyN2VhNpJ3Tn9SyniWA8Gx4dmN3fSXuGilx1SSMJwYpdCRXKEsCgGG4V3OzyzC3ewmy7uhhzEHm17bqx5nBwUtEdasA8mdE46GQkBbo5x2t740Eb4XRvH+w/ZQAJZo4n+IacTNXpRNkCVcnd1Etns0Q8uKilA3ZjI1MWMwOTBmOWQwMmM1
+
+#EXTHTTP:NThlNDRkZTg3NzAzOWJhOZBpC58UhhWDlpH7pGgqUV4lJ5/arDAr3dHxVOAEC/oVugLZdHoFuKDS11VVVDJgbTAyOTk0M2NhMjg0NjRmYmU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/4.celebs.png" group-title="INDONESIA 5G+",Celebrities TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MGZkMzJiMDNmZTliMjM3OR3gojAociq8mLgNp/mB0ZXS5pi2I5zSH1FZWLPOuezUNycZ/Hc3KIxEAP4RWresrHzQ8uTOOuh8H9aMvNtQuacA5bdmaIK7lrBSMCgqqF0mZDM4YzgwNGNhYjljM2U2OQ
+https://wakhaji.my.id/NmYwYTAxNGNmNzk5OTUzZswc4Cz45XpMeZzulHJ6Nl0B1UbOLugTxQH8gWmdXX3sV85fn1GxywbJkIoGRqYihD806uKhPzoReoMYfp9gPWK3eDJFwUf7nYLGEWjS16NZXdSjj9RTOCne3tYLvMSr1TljMjhjODExZDY4YzQ0ZWY
+
+#EXTHTTP:YTYyNjFiM2FjZDIyNjZlMZNYCsapdvmcmqcivB14199e2jyo+G2ucq0UqbfBcVbu3Kh3e0JtbKUi8xPdYCSfyzE1ZWVmZjAzNTIxYzA0ZWM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/6.history.png" group-title="INDONESIA 5G+",History
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MmE4MGJlODU2NTk4ZDQwZV297V/Onh3svQxAn8SwHbaST5KjgvnkPnaNuZYFO2OYdxcTVXGKsfm5iG26ifueqddqJHtIrsK+6L9EhF1gvCpumcA+/Eg9odS+UbmKQXrgNzkxNDBkODBiZTQ1MWI4Nw
+https://wakhaji.my.id/NjE2MzI0YjgwOGJiMWMwNjJXH5MCdv9E3tg6ylLYxAZEcDXrJ8IWjzsGswQDtmSQ9LtY8XXEDTlK0DeDITZqUsYAX+xfEPoqB6BqM7ZDPy/AkUvj0yDvhjFmkfnujq2bw/5GpFwIvwKyMKM8YMTrvjRjMzBmZTcwNDY0MmI4MDU
+
+
+#EXTHTTP:M2MzNGVkNmZmZmQ2NzFkYmbDcN5E5pehL5ysDfSNBfY+WEDMNutxRVgMbcBIC3a5Zqhue2IbDcgpw/TUeBcwIDIyNWJkOTJmYTFiMDE3NTE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/6.outdoor.png" group-title="INDONESIA 5G+",Outdoor Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MGU0OTRlOWQ0MGMzNWIzYx8TG1WXG7fDq7y7pTSfPC78tk2dIXsv6obGA/YRXFbPCnyz5deQ3U+ftiVK0vDDeOiv0Ip3DT0SeIdCUhbO0lxJ9OIH9RAcOi/aFziJIYWOZmVkNjY3NDJjM2IyODY3ZA
+#https://wakhaji.my.id/null
+
+#EXTHTTP:NDliODJkNDc0YWNjNTFiOSQm4aHkov9Ohx1XCEOir89ROkTRMcyfJzNrqqlkeW/jh2hQKscOM2SnmbX33unyfmE1Njg3ZGE4NTRjMWEzNWY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/6.outdoor.png" group-title="INDONESIA 5G+",Outdoor Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MmFhNmVlYmVlNTkyM2JiZkAmdQuhapFdrr/WVYT77zJmV99v3fnWFtH3/qURuHsuV1qpFHMFf34xKowhasdjmqbgXQ3cPbBzFShp3MqjY5qfPpf4RT6EKozzSnRmVVaXNjVlNDliNmNjYzRmMTQ4Mg
+https://wakhaji.my.id/OTg1MTI5NzkxYjE4MTkxORRUmu/sWEY3vPbHtWqMHHuQaCn0C9p5F2rMvObWsF4jsTb4RD5e6MoSGYeewhjsd8Z+sdOkPQF0SAn4gazFLa+PHsxGUlq4mIGo1jwhK3jRg8BBTYs8DKRt16ihU03gbTAyMDU2Zjc0NGM4OTY5NjQ
+
+#EXTHTTP:ZGFmYTQyODEwMWQwZTVkM/U79gm+KhZIM1H9dVQebSkQruJ7wWqoMwEEcvFfviTzz1nKZaGz1wG9IlomJudZnTQ1MzQ5OGVlYzZiNTQ2ZTU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/6.lovenature.png" group-title="INDONESIA 5G+",Love Nature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NGM5ZDhjMjZjYTUyMTk5OaakqCay1VzM6bVQhhsA6gX0l9vzxnL5pmhxChmsKcQ0lquSEk2SE3uBNoPF7SxdIOe8Hg51R1oStjAtd+kG6cQyXcso5rs6J5R/oIqTs3OdNDQwMGUxZGY1Njk1NWRjYg
+https://wakhaji.my.id/ZTBkNGRjNzJlZWE3ZDM2NoPKlEtgiiqa2OUVT+mCcgePSu6ATsfU5UvtZ44X6OzpsCbAakUKfOnvnozZz8UBX17aqBDE3KtCWF0jK1IxDcrgqaNSN8FW8qgr7pGwC/p1VthOLk+i7szedvwEoU+gI2Q1NTI5OGZjZWMwMDJmN2U
+
+#EXTHTTP:YTU3NzgxZjVlZDNlZTc4OLLjVQpFqDsQyVeIbStNu9Xa3dkVwMhpDw/BUBTbEEBjWYtfDZwHTBrAbTnEMFEeLjQwYTYyZGEyYjZkM2Y4N2U
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/6cgtndoc.png" group-title="INDONESIA 5G+",CGTN Documentary
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ODdlNGQyYzViOGQ3NmZiYZdgFnWCe3Th6VJG3CPiGLapNYoH1ORFj+pVdPEqPwv9TzFj+o9rnavIayvAAPCD1e0CiX1fRb7Md1nKTyaBL541dP+yXB0w38ie4cXmyCELYjNiYTgzNGRmNDg2MjgxNw
+https://wakhaji.my.id/YWYxYzYwNTA1ZmYwM2JiM6R/xQlXdJNdb6jhgQvMuLyrnhRI9hbU4+9HXjVoKBxC0u8OP+q+VMy0wEherafzE87WDPEC2x7SFRm886jnXsokHK0QL06GR8MSx65M1aJM63zRt7RXiQQNenZyR89IPThiZDc4NjAyNDI2MzVmZjA
+
+#EXTHTTP:Yjg0MGQzODE4ODljMzFkOEk+zqcAGGb0r2Mh0B8lxgNWzmUoRQPOPbbrwAb441ZdiiZy9vWlMkGlT7ZJr3zRvzI4ZDlkMmNjZWM0ZmY4YmM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/6.crimeinvest.png" group-title="INDONESIA 5G+",Crime Investigation
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OTU3MzEwZmMzMDFhYTZiZuxBfRbMZ+0evyu6tyqC7ao/+TDghkjs3sne2TOPmVEDTmbrdoVCJGhwvarweJkMUjX/fEpqzKUjqRZbW3IhnEj3or9vbVBIo+EWiDPXdnOWYTljMzRjMTNlOGQyYmZmNQ
+https://wakhaji.my.id/MDUzNjE4MDMzZGIxMTBiZSTJgxFAB2hKv/0O+R45cIcdTROFFGpd0d3qw4kHSdYPAZKJCTD/p23VeeIs3TiTIleBF9UQMl/EuIhV+esytn6z+Taz0DCW9rm9uO3WXTyJBCf1hPRZ0noBzUSWqWI2Dv1TKPRLT9+LBR2dBq0dWm9lNmVmNjRlMzMwZWI4MjE4
+
+#EXTHTTP:ODY4MjA1MzBkNDE0YTM3Y6QHEWQ9kmZ9GNaABtmmx2DqJInckll9Io6p8DAEP6lUgQnGilktxkixCX6UEP9KIzA2ZWZkNzg3MTFlMTMyZmU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/6.bbcearth.png" group-title="INDONESIA 5G+",BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OTRjODIwYzdhZjZhM2Y1MNfaE5J/5qIjaaixm/cjvKsy7uhPhv432KKlE+d/LPKgRwHvjtEP7ELp2acclRIbvv/1U5rESS0mkpjOEWyoqf1WOfdzsNdlDkT2kEqbUYlwNTEzYjcyN2I0NzllYzg3YQ
+https://wakhaji.my.id/ZWZjZDZkMDM0MTAyYThhNk3iBKjv38fagiCpywpmk3q8xwULnYQwup92g+W4xWfoTOXmpohbh4A/gk70lnKRJxqGBqpV9148qGoAD1K5iboWOx8nfZcjHY0fBC5wjn0XQy5ufAZadICr2kK/2wBOtDExMjVmYTc1OTcwMGM1NmQ
+
+#EXTHTTP:YjBkMmNjNmYxOTgzYzM2MIFgL8iaPHO4JMGr2nEXqzb1TKYVIHWSHHU88CwGdqLt5x3P4z4tqBy/3D9LJQu5BzQ1OTUyNGQ2MTNlNTE2OTQ
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/5.animax.png" group-title="INDONESIA 5G+",Animax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=M2I1ZWRmNDU1NjAxNWFhY49Q583rU3qGxBZVWjbDz6wd1kUlbE+XWcI5Ux5MfhMcKrtILjwAT9EKtrw5LaU0+MOUugQDJKnjHxgRLrUgKLsbmD/aDbUXNLgzCaXwhdkLZTY2ZDUxNjMyNDFkYzg2Mw
+https://wakhaji.my.id/NGJmNTUzNDM0YmIxZDc5N8L9LJGxo72ftotxz2x6NuSTxPGRMdsCJ2Pn51dQVepQduIY5aonSiW1b67hy3qK75lsFUOrjYg4lgFm93XQKm209Okqen6LbmhNhBcZdPVxNDM3Mzk3MjM0ZjM4YzVhYg
+
+
+
+
+#EXTHTTP:N2E0YmQzNTc5YTRhM2U5YanY8PK/gcV+YftBKcYtRgNVH1GLW8uytQ9IbAumUKdWfMruipeUEkF0rogBR1uRHmNmYzBhYmM4MDc1Yzc1NTk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/8.ewtn.png" group-title="INDONESIA 5G+",EWTN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OTk0ODdlM2NjMDc1MmQzOHqFNQm9ypCn/AqJavPEBktJxirblpVAhyBcRjHzHebsbHFi7+UlcL46/AD6A/KggsoNSDSyLLyymqoX0+gBoDvrn0dYqQCMo6IklW70DwRJZDc4YWRjMTYwYmY1NzNlNA
+https://wakhaji.my.id/NGYzMGE1NjA4ZjFlMTA4YWZ/FJBcT6Km4auCThyIRxQGmQQtWAa00t2sihBDr8dvUDQlc5GO2WKcE6C4ab/5OfAjLwuaNWoRCaynm3xZUQe1iYtsmFUEWTKBdWAY97PYNzA0NjM2ZGE4YjdjOTZkZA
+
+#EXTHTTP:ZjRlM2VhZjM2ZTBkNTIyMOpzczafyvuHRet+wHiYEZ55+6eiSsjws9NPDdNwUIJFHJZqEB77Rhzo5B8UiDZmFGFmYzg2ZWQ1ZTEwODRjODY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.Daai.png" group-title="INDONESIA 5G+",DAAI TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YmZhNDAyZWRhMWRkMzg2NS646np9LgtXkdqrUo1eSY7+tybAyNicxpleGzISn91cV8IH9KoicnKinAAr3NRFey/YCama4kAWkKxKtwsEKBlsKFtmhAecvfMq6+V0fgSHMzM4Y2NkN2YwMjkwMzdkMg
+https://wakhaji.my.id/ZDk2ODkyYjI4OTBjMzM2N8wf2YdbDda6Hd5u/Qi6Oa//XpASMdnXE8sM6ySDie+D225JFD8pgyjAoLjPud6MDSrzg8AGH/ru1nOSRkbxBsk6AT6gicp5yPDY7KbJPCBJNzdkNzg0N2Y4Y2M1MmM2Yg
+
+#EXTHTTP:NmU5YWQ0MTViMmVjM2Y4YT3lhGk4wY1kFm3Kj5VCUE97n17Toonrh6K5/VBREvuTv/YcEv/XEPrlaimcmm9vMDIwNmFlZjFmMGQyMmVhNzg
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.JakTV.png" group-title="INDONESIA 5G+",JAKTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OThiODdkNThjMjIwNjY5M6//+Puuk+yQ2YXt28Arfv9JXD7ghQPmoxJ519Z3dB9RQLhAfSl4+Up7o3hxtVDMEReopiQLjdkAGe4YdDfSZIDr0UWXjNFM7Jm/Z++f+Tq3NzE2MjdlMDVhNDYyNTY5OA
+https://wakhaji.my.id/ZjJmOGE3MTVlZTdiZjQyZtW+s/3JxfU9EdqKznEu46EutObtQj1wSy1A/b03jo90S0z0ynVIIDYApRW2uBiX/FYh1mlVzYpA1TcjM9RDPS2i3nCEgBjgHCLcBYgs8gh1MmUxM2Y0NTE0NjdhOWM2MA
+
+#EXTHTTP:YTI3ZmY5ODMwYjUxMTI5MgxbjLu69M1wdMkjXVbDtNE7Itq+tCmjEdcXY3uhs2Q+exzOKE9xCklACYtFWtomhmQzZmJiNjVlMDM4MDZlZTk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.JTV.png" group-title="INDONESIA 5G+",JTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=Y2M2MzBiODdlMDBjMmE0MgLW0fKeVNcQTbaDGd6d6aUw+7/js0DBWw2jaYTo1slrTtOjiMdYDMcMWPE7SybPgz8pfaPSSyFfsbseRbJvYlet4t4ChDTNVDlC/Py7U2t9ZjQyZjZmY2U0M2NmYTg5MQ
+https://wakhaji.my.id/OTZkNDgyNmYzMTNhOGFhN708zN7FocLXwLCGjgEmyEwnP2J2QfePXr7an+9m1FFsy4e4nfQlesgFAE2+dKAHL+Z/5Zwinz/k9UFuxi1Bc773mGuHovkwEYuxADgSjgGsNWRjMTUyODVkNDc1MGUwOA
+
+#EXTHTTP:YzU2NDJkNTRiMjRhOTg5Zf63TP5Nmw9w3Cz547SA//y/vHReFxnzYmeDj1bv1g0BCKhdD6qCVOPQusox8ZuSamYyNmMzNGE4YWYzNjk4ZTc
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.BaliTV.png" group-title="INDONESIA 5G+",Bali TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ZmE1OWVlNzBkNDhiNjVhNCAvLEx/zTXT3Ay2rVfPqjYtZkrhOe284oKRH5I/86mjUlMmBTa8HknoiPw9EiFC5t+yRayFbX6fx2gVnvwit+pVW+kdcw7C6kWokJ38Cc7cNTE3N2UzY2YzYjI5MWFjZg
+https://wakhaji.my.id/ZjczZTllMzNhMzNiZTQ5ZfS3dO1fKsZk6dy9eAEJDldvJzl6DFOagCHh9LTAwEUjNEQP8FvMD4osnl4nNOi/sf9RffY3wHlYkHiBRKvixuAKQ9axqljwQiFGirS1YGboMDZkYWFkNzNiNDc0Y2YzOA
+
+#EXTHTTP:ZTg3ZTUxNzg3OTQ2ODZmObz2WY4+9dPg2Bhi6vNvyrxydeA7F5H+kYiQf1rH+UJmTKcbFJQxVyKOvpPRBFVdVzM3NTgzOTdmNmY0OGYzNGI
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/1.BandungTV.png" group-title="INDONESIA 5G+",Bandung TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OGU2YjNiYjg4NDVmZDYwOEDlaI/8njUtepfzS/z3b4cSLDAxOUPuEdyN2NPh3Kx4LTMy9ZRo5tEy5vd8C68AwRfG/RlsZX60APsRWX2PiesXXgWUEtieGdIv1xYTzf0wY2I0OTBiOTQ0OTRiZGY2Zg
+https://wakhaji.my.id/ODBlYjcwN2VlNWM4YTUwM+bczaie5N33zuSV5p0bc5yGljjMEQUFXuVpLmiMzp4Qcq0P5QW/gvcobvpffXl6BF5Ul1z2xTSzp3HaIYRrf01gtGCtu0VQFf2Fx39VeGrNzspS9eZyDJc2YyP9oVfA0TA1YThhYWU3OTdlYjBhMjE
+
+#EXTHTTP:ZGQ0Y2E5YjVmNmYzYjEyN1lGxYWjA36AwdyC7boVjuYa5r3YCLtT/MCsXXumIQSwR/ohicCRuVuL0D+E/nJd3mU4ZWJlNTliNTU1YTFiNTA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/3.Bloomberg.png" group-title="INDONESIA 5G+",Bloomberg TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ZWVlOWFlNjZjNTllYTNmOZOH5smvW695FLn5OPwNl9BefkKOsEBSSqPOQ0sGwrHoAzswHSS8ZnAqGFjxnCdqtatAYEkrxO3dCRB37BazRVbBT4ZE81uK5Lwb+y+VAJoKYmM0YzdiZTQ1YzJhNjg5MQ
+https://wakhaji.my.id/OWYzN2Y2OTMwZjA1YjBlOWFE4hBte0SF/Q/wfrNgGg9QBxCPsVJzwRCnooEXF0hiRRbrZ8RfNL4oou4P3blmacvzR115u3afxZCnmmzRizVOTepTXn0cJcFYXJAHOU1ym5VZTttHN/lczb0uazyNOzkwODNlODQyZjViMjc4MGI
+
+#EXTHTTP:Yjc3ZmMxOTkyN2QzZTg2N8qLZbDlssRUxsHGNj7MEiQsvQ4PrJtrPZ3GeUmxobept4vD5scXRfnEH0bqc86lk2IyNTJjOTY5M2JjMmMzMjI
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/3.euronews.png" group-title="INDONESIA 5G+",EuroNews
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NGVkNTczZDRmOTUyNTg2NewjuEUo0KN1zV4eiD9hrUaHLa/EzZ+Uhq12qSuG3PzfagUduZxYfdBNVBZPIdVS4L4mO7WUHxebjP5Kt4dxxx4cCA0WieouilbJr8I7BxB4MDM1OGUzOWZlYmFmMzhmNw
+https://wakhaji.my.id/ODIyY2Y2MmIxZjJlMTZiNuYsPPXagBxUExCBMU8rBDj7bhOGh1eI56C6pDBTvhFu7PzOXIJCvokV4QptGM0emxrXc/Xp22iPbTvwlRC3fHenCUdIHckl9BNFEREwDdSPNjfU89LO2f19hyMvyxgNq2NhODcxYmZlY2MyNGVkNGQ
+
+#EXTHTTP:NDU0NDc1NGYxZTY2NjllN8f4axA4vxAUD6/hmiAilWJB0OdAl+Iy6kbf3qzyCDPHgBFTKfAkrHLO/YWI7wDRvGM2OTA5OWU0MjViYzUzMmQ
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/3.francenews.png" group-title="INDONESIA 5G+",France 24 English
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=Y2M2NjcwNDk3YWNmZWQ0ZpeRZ08J7/C0cb/nm3pykCBt6181z0bOB8ZEc8cXlpIMBLIQSeF+rhTlyt5XH7ex/oWeXzF29sfUR79nTyTCfBVhQ6DuAllRfIs6a+8klKx2MmYwNjgyZmE4OWM2M2Q1Zg
+https://wakhaji.my.id/MzVlYWU1YTk5NzNmYzU4NKv1A3P55Ckyxqk/zEx3K5gdpQq4YyCkS/HSV9wWTL5avIizK55VkdAWyMmRHp1tIpBM6x+S2acKwxJhbEhMnMnL+A0mEjsVbAcQOgehmEbVpnjRz/GNRO5DnSwQUDQuODQ4YWJlMGM3NDJiY2Y3NWM
+
+#EXTHTTP:YmUwMGVkNzc0MjJhNDQxN9RzanHUZJ4+qjAk0YXKszjdknXTxlVQOWLVaWTTqoL47ON2oCUemHq/tqKZ1F1hoTVmMTBmMWE1ZmZkOGI1NzI
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/3.CNA.png" group-title="INDONESIA 5G+",CNA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YzUwYTY2NjU4NDY3Zjc1MGQtNAFAk8czI28a5EDnpNbUxVUS7TBRMcqdjYDO0uuc4vQAEbDInX93Ggvf0J24PT0aVVaYOOPQrjuTHPlaCN4tfRELTlsCh2uMaWQ7XTigMGU4MTkyNGRiZGM5YzcyZg
+https://wakhaji.my.id/ODlkMDhhNTQ2ZGMyYzU1MNlwGL5oq97b8MaeSpnjRBlEAPCGmceoVUe0Ck/LWYbaeSGFATbzPnF15ZOGISOKg6AqNT280mJA4VMLjkCGr+FiBPuBrPZqrQAa6ao8iK/LHinH09awYOSCDVfrZTjwXGNjZWM3NzE2ZjBiM2I1YWY
+
+#EXTHTTP:MTJlMmNhZGQ0MTU4ZjE0NURQ47Gqdz08xpapSXTQKcWYyGMx63Te83IU3SpNt41RoeTNUJMp3BWFXZrkpRTpB2E0ODcxZGRkMjhmN2E4NmQ
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/3.bbcnews.png" group-title="INDONESIA 5G+",BBC News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=Mzc4ZDcyMTRjYWY2YjBlZk9i6MXscmas21u5l7gjvzqv7jlhY+au68ZyCt5xqX8hu/iKQRFNI+Nh2jdXUqZA6bA5YSRBagVH1u+tjJ5BER/4krZf2UNSiGjJgHeGganRMDQ0YzBhOWIzOGNjOTkwZQ
+https://wakhaji.my.id/YjUzYzQ1MjE0MmY5YmE1OFkFJzhP9/sb4k5L1RXIFIwLJR3dYlXJ608ZU2As+89tS3M1dIujHhZott1ksp7/mUxKgOYTx0GJiSpWWE8rMAb8wPxJ81YNkhYyetV7yU2ofbSy+vK0JKV2Ur8xKK23QjMwOTAwNTI3M2M0Mjc2ODA
+
+#EXTHTTP:YzhiZTdiNjk1MzMxZDg5YlhVJTGAmqMd7xT4IQOUt4d+5gjpKfuBwPl+y0ICaEa2Y8ztE8z2AhLwzen74t7nHGY4OTI1MDc1OTMwMjdmYmM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/3.cnbcindo.png" group-title="INDONESIA 5G+",CNBC Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=Yjk0MDg0YmUwMzgxNWQ2M3Ltf6cLUQfk9ejsy9yfOX1FBzLcf8q6oG0gi1C4qq5JC5qkoAGno4ITgw3OV1gGUj6NrIMGawscLKnDgPBfXh6YUWhhlfH0r6ubYqvJCgDAOTRjODhkMjlhOWY4MTRmNQ
+https://wakhaji.my.id/MGJlMmY2Mzk1MWUwMjgzNd1U3A2ojMm2Nxq7KAFlPq2Ke3zlKKHqCnDN3ORlXIU9L0g3bCoS8Di9xNGuiO/ViMPjf4om5z35RIOuxlX07SUPetoKIvRhGw1Wwcp6cTP3NmI4OWJmMTE1M2FhZDI5Zg
+
+#EXTHTTP:NTBjZGJkYTNjYWYzMjdkNhtZGYC9fNp+CiW8pz3UGwcFn4gcoOlQx1kINf4iiO0F5zl9mIHumYkOfymqfuhyrGViNGI5NDMyZjNjMWNkYzk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/3.abcaustralia.png" group-title="INDONESIA 5G+",ABC Australia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YTkxN2M5YmE1MDZjMmU4MYzBv8vbFloGnRhSQuI+3dgbvEyqCBsSKegEdoRnetNKSOTegYB7qA/+XrtdJ82cxWrk5faVO5767vPUOiiOJMyBJk/3DIp4cb9PGvJOAzo8NWYxYWFjZGMwNjk1OTI0Mg
+https://wakhaji.my.id/MjE3YWFmNTNmZmJkNGI2OH8TXD5rWpSdU5Uh4heq4xLYjT9wO5Y1HrKx0lfjnG/G682tjQxbxXhx49qjHhLzRnmnB+S4Nny/CnFa29cgR4Me09sxFliGGXeiBrsfpmeyN8LfSxX7bjZLHRMNqCjo/WRmOWI5Y2Y0ZTJkN2JmYzM
+
+#EXTHTTP:YTdmYjJmMGYyNjI1MTVjMhBUZcWdsuJyhn9zRrMJacgovGjDLwhlFAsN1r48zk/79GdIaKw+jmhwCBxqqz2wGTJmYzUzYjA4ZTU5MjUyMzU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/3.aljazerra.png" group-title="INDONESIA 5G+",Al Jazeera English
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MzdjOTYyY2ZjZTcyNjMzYV95PkdC90Wfvxq6eGp/hnKPLQQ5KqNX6FnG4knXQ3g6boSgm4eKfZjsEOx3RHtVAqtv7NKporWP+8BQvhR+i+HQ2bQ5Aepwo78K0iaZKy5KMGNlYWJhZjVlYjRmNzc0ZQ
+https://wakhaji.my.id/YjAzNTU1OTZiMzQ0OGMwYpKibfSZH67W5UMzL+4rT7vKxDCRxzEbgfmK6tNtFP0dHun45VjznuuP1s9DIigAqjO+MgZcLVY58ny5CJTP2WLVEQ+vz/phZ2Pi88Q25kq7y8SI3nwBhppjXoJxFYVB73txmSwRqaKyVMaEpRYiGL80YmUzMzMyZDhiOTUzZjk3
+
+#EXTHTTP:MGE2ZWY0NTZkZWU4Yzc0ZE9i2u9mvdE68i91dG+Ak1u1XoxTCaB7/A5qVk5OBOdt70sPUQryMFFtm+si7HjVP2RlN2JkZjJlMDVhZDAyNjA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/3.dw1.png" group-title="INDONESIA 5G+",DW English
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ZTQzOThmYTRkMmI0NDEwYRgLFEggnv3x4B88AvFvN4+8pbzXBUfU+bkJZFty1tI3VPNMcLNq9oTMZVHSDEKRMnYZxOAvgIrwiB856lQNbpaGUzT8/O+AZ1Fb6y/fQg3yZDVjYjgzNGFhODdkNWI5NQ
+https://wakhaji.my.id/Yzc3YjU2MGY2YjY0NGQxMH5mTQmZ1uXSv37asWVC2UoXnK9yspdGBjsIwT4BZfVmjg83aqgbymb13eODiqQAs0qj3nyU1CUKF8VmN3GoeDwuMNtPxWaqxJzpMronMlGOMGQ0NGUwNTJiNzAzMTM2OA
+
+#EXTHTTP:MWQ4NDgwMWNmMDU4YzBkNGM9UnvSnTBBERCn0vtXK/0p2Ajenu0dNEXxBoyh4/aTKdPCchv0tQrgCR3sHOC4LDkzYzJmYWNiMjQzNGE4YWU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/3.tvmonde.png" group-title="INDONESIA 5G+",TV 5 Monde
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MWExOTZlOTU3YmE1ZDA3OHrzuoWZR5M8D579xVK7F1eO/scUPwkkOPU5OPogaoo5FKDWMzdbBHpuNmp5x3hYXFMXB/hEg7TsO1OwArNtZc6Z8Zp4buFAYo4QAIn9Xo2xZTA0MmZmNGJmN2QxYTEyNQ
+https://wakhaji.my.id/YTg5YjJkMGFiNDllNDg3Zk3QU6P8fwRKzRcPnw89iho1qg7q19jzybfDIZsk1mC9gTjMyT0L8CCeEC46dhgdIeXJ3+O2FCLwJ077IXHmniOo4D0mxsFX1f8fM1Bh/ezdMzMyMDk2NTk1ZjliYzI0Zg
+
+#EXTHTTP:NWRlMTQ4MGI1NmIzYTE5OAGQF/AoundIUHGDpRapXBmAXidoshMf3jkCBYAcWq1dcNxU9NgT4e+KfjiH/hCX5Tc3MDc4MDE1ZGY1MTEzN2Y
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/3.russiatoday.png" group-title="INDONESIA 5G+",Russia Today
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OGE3ZmQ1M2ZlYzM2NzlmNjQ/FAFAuPa6i7t02Naykr5Fx9uSBwKpvUfaWPrGsy6e1jnflD7Q/Uv9Y5Icy3suFV4fv4HefoG9CvO33SrFsqQChbIljSYiDEdMPPpDgeDMMWUyMTg0ZGI4ZmMwNzVhYw
+https://wakhaji.my.id/MDAxYmUwMTBkMWUwM2JmYpU7U5LP8u0bBYI76wITVsAvgeQxl++QGBRtTYD28sXJRKkEdPVIN3tydvpNLLbRcR8EL/OPjq7KVRob6GxbtKRjw5faSA63NZTFcAysw+gj5RxRYoMO37wKDDN3SqYBRWM2MmE5MTA4Mzk1YTExYTY
+
+#EXTHTTP:ZjQ2NWZjNDFmZjVlODE2OAOe6/6rjRhXBOMcOspGT0USBS2cRzR8l8EiF4e00U/LFsrRYPLwWDhhYbs0CKvlkjE1YjI3YjViYmVjNmU0ZTI
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/3.trtworld.png" group-title="INDONESIA 5G+",TRT World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YmM2YWU3YjQ3YTJkNWVjZfan5UX+n1YgV8i19B2Kfihh3/HXx6nyb++7j0Oh2NqY7SJ5rYL0UpuS0MZVusja3QHT0KgmQSy/8wkBYw/6qWC6wnk9ar0xDkkqLO8grMhBMDg0YTAwMTczOGY0Y2I1Yg
+https://wakhaji.my.id/NTA5NzVkN2NjNjhmM2Y3MNQkHJxn9EOFXYN1/ba4mi1BGpg9CBoqtJx0J3/tgQkTb92bQsL3rCOwaXTGwPc/occQrqP9CpPW0TMqqERCex8iXnMSVQrh4pM+TL8FnbjsMVEFAstbTSa8lNnpHmCVo2EyZmZmNzI0MGEyZjA4YjY
+
+#EXTHTTP:MTc1ZjZiMzM2ZjZlMmI1ZQw+0z11Xe6eHaf3azSlXqqT18G54zThF2wkBKmo9yoYl4Ix/fykGUe767sgJXFaBTU4YjNiM2RjNmZmMDkxMTU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/3.foxnews.png" group-title="INDONESIA 5G+",Fox News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ZjIyMWQyZjMwZjlhNWE3MnE5tAlOIBDHCCOw6MOKabPczMRW6PYa5oDUbsVj1XfKYa4nr0ePc6yVxHOlO7UtW7O7FQ5KXJ2+m3ppjtLNayT2ArGdByY8ZHO3U+T8fo4bNDNjNGEzODAxY2U4YWE0Nw
+https://wakhaji.my.id/OTgxMmZlNzFiYjBmNjM2NnSudwOIK93yChMZC7nuAgeTgnrKEpU0YVZIDA21BVaeFse34wysz2SszjrVPPEVyB/Wa5tz9LuFigjXz+8vYaMNZ2GFTvFU0F7znVv8cE5OYzRhMGIwZjZkOWNlZTA5OQ
+
+#EXTHTTP:MjY2NTg1ZTc4YjM2MjY2OQ72zM9GXoexqI7rT5AEM5Uyr1K+sRYvCF9wmavnC1hgCq6RK3jz0OrI5gKru+aUHjNmYTFiMTg1Zjc5NjExMzQ
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/3.nhk.png" group-title="INDONESIA 5G+",NHK World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YzRiODY0MzYyMDhiYjNiNv4cvc7lyCX7WykX/LncvoFgt5X+6omeqHNZOHEaHYw1CkKyU2KRwkltF4cbsz7Wq+r1mW2Krns/0ilx6Xr7JWp/YlDrWlNVkmQJWsf6sSNBOWU1Njk4MDI1MjRmNzg3Yg
+https://wakhaji.my.id/MTFkY2ZkNGFlOWQ4NTk5N1E09ma+EwLN2gMapwIqQAJBliPmwZ1XH5FgyZ76UtxE+w0Qx2tGgs08BzMyAqWfsxB02P2auRputxODYiJb3WK0NC2fdttwucoFn8jMlpXif9VjooSkjEuIwLNHJ6gy02M0YTg1Nzk1NDViNmM0Zjk
+
+#EXTHTTP:NWNkOGUwM2Y3MjA3MzY0M/cAvUusB2Av4D48hr3iJdXT5bPWatu+PviisTeinOrJCWqegaFoKBBXIlr921RIHjIzZDVlZDc0YmY1MjMxODE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/3.nhkprem.png" group-title="INDONESIA 5G+",NHK World Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=N2FmOGI3YWJmMzRmMWIzZiiiuAH129MeSyFsXB8syVu0cDUN7SmZTK5cA5gn3FQIwp8OAgh09/j5xpS7gYgSTd/AlgOmgsC2sS5v0mfG7E1uIzJMZDidQ2UH3Gi2woJdYTQ3MTNmMjkwZjhmNjhiZg
+https://wakhaji.my.id/OGU3YzRjYWFkZmIzYTBhZZIyON+xeN9mLovrwIYPiXuQ1Ggqs9qaZHWECVEZdERHC3VBN+BZ0Ar4OrrlrlS6zBzwZ/1E93V8RfA9j8xXGkLGeKi81wMOIAz69Z0tYiC0jOj2W8X1PCrgXyaBcMt0xmFjYzMzMDIxNzQ0NmM1MmY
+
+#EXTHTTP:NjMwOTI5ZDZjMWZmODU0NLGeY6N6/51YTbITAo1jQ3WJlfzLgKLM0loVzXNxu2Otzri2c86BdGwus+jSTauYqzAzMTk2OTE4ZWUzODkzYzE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/3.cgtn.png" group-title="INDONESIA 5G+",CGTN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MjViNDJiZDEwMjcwNzRjZNVvyZw0CpleSeKlThpLdI1D38LtISqXDm7Xic314iiHS7K5KwmejBqkaX5gH2LocK2uzurCJ4klRMsH6eKtGMbRuxT9ZRWltmN5l3OIwfvcYTA2ZmIwNGMzYmY1N2NmNA
+https://wakhaji.my.id/YWEwMWQwYjdjYzRjMjNiNCm2eRIKrYMtnKQhkpqECsvtz5Al2OU9i6X1sPy9dmTX9GD6hX4eX/JpBC4UeWuLw/p4jxREPT+n47AnKRCVLunSTJe2STYvLOJn8CSP6Eu1ZTdmMTEwNTA0NjJiNTg2Yw
+
+#EXTHTTP:MDRkNWIyMGZlMmJhZGM1Zg7pP7nllhaI089EtJu4mxOgy0TvI+NA4n6fPFEkrsCvUmyXExFPjaJ+HAmns1rSWjhlOTlkY2FhN2I3NWRmYTU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/3.seatoday.png" group-title="INDONESIA 5G+",SEA Today
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NzhmZGQwNjhjYTk1YmIxZSm4Xm9KRPqMLrZpc3MVdCdi5vaDWMMB3QepG9h3JlkViZprcLNOCK/8dqJvMqojr6GD/WcSX7wAtF5C3/9xe7ucCfNjhUSTD7gTupKDNYFiZGRmNTJhZWIyZTg5YTk5Yg
+https://wakhaji.my.id/ZDFlOGRlMTdkODM2MTVjMWBCCXxseIqhvLwHydVslD5GyEOzs3/G/9NDT5jF9PWQP2Fw2E4O5DWMOlfwoiPDAmb9MGLc/Kx/hbHhuX6lS/yizLLynHedr4qOeFvnAXyaVZwjuqzaUVMbQkA3URqg5zNjYTY4NzE3MGFlOTY2MDA
+
+
+
+###################sport################
+
+
+#EXTHTTP:NThkYjE1OTFmNDk0N2IxY5OdovoPO+wydDsAlL1zywud4L+atfDfe5G+df/BHscpdJR5fblSMlB7sOA/W03A82Q0YjJjNzNiNjhlMTM5YzY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.Sportstars1.png" group-title="INDONESIA 5G+",Sportstars
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MjJkOTcxNTRkMDdlMzI0NA13r/1NThNQJ/H4QMkyGyvANF+Z8+yBLL8wn9d6JWGOKurZ2xMzg2LqHCFf8SZG/uwq0mG6LCDjiNoJ+Yx9xCx1bOzyNqSLdSyDkS1nWUtHNDkyNGY0OTA0ZTQyODE3MQ
+https://wakhaji.my.id/NmI5OTFlODc2YzQyMTc4YyBRv6fSnauYrT/iz+0exLvZt5F3fhmvtnouwoJRp2YusqA054o+HeBWIgIDMinVfpiR0ywWu5VGgpWUv8TsN4DpSPmOEfEYzXAY/hGgdrLib8/AkiUXL66l9t9KxJ2/dmE5MWJjYzAxOGZiOWVjYzc
+
+
+#EXTHTTP:NDBmZWRkYzNjMTAxNzc3ZJg7ZcLwPN20QwlDHszd38QG3Y9dfEJtJovIdT8uGKDZ9IxGd1nEeAEiQZm8XiqneTE4NzE4Nzc0ODUxNzAzODY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.Sportstars2.png" group-title="INDONESIA 5G+",Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ZjU2YTJjMzRiYTg1Y2RiMHOPy+Nx9F6aoPsSXOpgk3uZkUiK60VHWXSxRYOR1NxayLxkEBM6p/FDbfOwrjBNXTwdt59OsAmVTRC+VWkVF5K9f53B8Wj/YhP1Lv9Z4GNVMzE2NThjMTg2MzQ4YzkzNA
+https://wakhaji.my.id/N2M5YWY4Yjc2MmUxNDhhNIw8utMnLThatmmnnKe1z3ufgMPfx92TrRPF+KoJdFT5ik1C65FNaThjH5F3R+aUIaA4XwrLFdLSKisSgjzZvKizwqkUKiPMKDvpOgfV1faLMz37NumEzHMedsJ3oU30nmEyYWYxNDUzM2ZlNGZhZDg
+
+#EXTHTTP:OTVlOTM1MGJkYTE0NjY0Zg30l/OLQk7KVzTaHIPFilgAv2wOvB6Yzpud+/Qk3usddj8rNoPB3YIWCN72UXS+GzU3NDFmNTY0NmRlZmE1NmE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.Sportstars3.png" group-title="INDONESIA 5G+",Sportstars 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=N2Q2YTYxNjlkMmEyN2Q5OA/DTNVs4sVINVM4mGmBItbwYze5Wmk4jOMTE4goJ9CgaCwqfyxQofC6UGnQMxEhR4QRc5ukDmFwHeBckTovmglnt8c1qVsMY6C8hFK8pUbhZTZlN2IwNWMxMjJlNDA3Ng
+#https://wakhaji.my.id/null
+
+#EXTHTTP:MGZmMjYyOWIxOTY0ZDMxN746b3FRms5UZd88ceS0sxifglILidE3KCWdrk5pbL+h6BV/EjsZeQh0915pwiDyPzAwYTZjY2NmMmYwM2EzMDQ
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.Sportstars3.png" group-title="INDONESIA 5G+",Sportstars 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YjJlZTBlNDQwODdmYjBhY/nADsWYbiGWDjD2z7UdYDyifHE2BiPWKUHEqG9IjAAhAzapT6nZ314MgdWLP+TYUVxtKPCybvqfbmb18p4hu4+EDH9Qist2pSy1pvTwyjdUp0DTzUS5HDR+Yyt6SAXFQDGnoO0LbD9cQZUl1dsv4HjRLiM4ISVOAptXzbc4mEqyMzg1ODljMTczZmJhNTNhYQ
+#https://wakhaji.my.id/null
+
+#EXTHTTP:ZWU2NmYwYzI5YjMzNDRkMGjncX7nHQCd7HfLkdVk5/QzFXgbZ/S+veDf2K8gyzKFk06uSme3vaWUz4tcWQiQLWQzMTRmM2Q0MTBlYjBjZmE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.Sportstars4.png" group-title="INDONESIA 5G+",Sportstars 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ZjE5OGM0ZmZlMzFkODNiNZlku2o3HsCR7ciAGTRpq/8Q+clvY5+3/v2JSzwFVp0IoDG5fWy6R4WzYYD5jWZ40eidhTCsQ0terNyDaVZ5uJ5wHoqFfHwoFL+3ZFPvuTenNDUzZDJkYjY0NjE5Nzg2MQ
+#https://wakhaji.my.id/null
+
+#EXTHTTP:OTAxMmE0ZDIzY2E0MzExNSiX84pTEa3fAuO/FIWJzPP9DSIB4cWR5KH1ZTkl2kDy4KKoMgfB/YJa2b1Hx6hePjdlM2UxYTdiZDY1MzViMDk
+#EXTINF:-1 group-title="IndoVision+ 5G",, tvg-id="SPORTSTARS 3" tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.Sportstars3.png",SPORTSTARS 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=ZWU1ZmQ5NWQ3MTMyZTZiYzck3F0VIv3vquDgsuBHqZe0Ptbj+Z0qTl2+Zq68Io70QZCL1+CJ6Ksv7leeM+TV0W6M8OlqBDurWceyua0x8be1x4f3ug02tMuUjaKkMPeLz5k9JJfwi4KcNycnP9s2MR4EtrHvvZXc38hAjZFGMECCSRlpcU2Qp+N4UYpHiEkXNDA2YjE0ODRiMDAzNmNmZQ
+#EXTVLCOPT:http-referrer=ZGZjYTNhNDcyZjAzM2ZmNOdP5Mmq1PMy4uUIkNapMGwnLOlgOZYtOIujNOSLhXQIMDJjNDAxODFhNjkzMzM1Yg
+#https://wakhaji.my.id/null
+
+#EXTHTTP:ODY5NmI3YmY5MDgyZjY5Msgh25fF5QURy2sYm61HlhuglTTbm+/S8r3NNsThN3jmVCKa0UtHSQYkMyBpVci8TWE5OThlMDlhM2RjMmEzYWQ
+#EXTINF:-1 group-title="IndoVision+ 5G",, tvg-id="SPORTSTARS 4" tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.Sportstars4.png",SPORTSTARS 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=OWM0MTg1MmFiZDM0MzljMsPho3fDKiD9dXF9ouCPhDRtmWzlMVbTlRxwNxwFaNhOP84MYlITW+OZGxDHzA0gzI7BrjQPUH3s6GKwrn8iej5iGn9SowOhBNCYzpaqGVTnODk3Y2U4ZjhmMjY1NDEyNA
+#EXTVLCOPT:http-referrer=NjRjYzdhMDgyMmQ1MGIwN8xp2izRxucpB+snwXAZ1muaRwvI29S+hRoMGI2EccyBMjI1MjI3M2I3MmNhNjViYQ
+#https://wakhaji.my.id/null
+
+#EXTHTTP:MWYzNzQyNTc4NmM0ZTE1Zd9IAcbKmCeRM7i9JZRwgV9Dv3qWLC2W6DndddlARXnifccW7h3PNRhis77YwRu5qDU4MmM1NDhlZTU5OWI5Zjk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.Soccer.png" group-title="INDONESIA 5G+",Soccer Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MTFiYWQ1MThmNGRhNTQ0ZvL3LWiN9G/fn+qnOD4GWBBJNeuwbVA6QJj16V7gDW0y8IUVf2j32VQ/szi3u1u9GGgG8EWr6H2bOWtrAEx0CLau2V8NBbRNlQKYpwW7Uhz4ZWYzNzU4NTkzODYzNTQ2ZQ
+https://wakhaji.my.id/MGZlOTM0NzljOTFlZDE5Zm36+nzWWm53+GOh4LFK6OmWH+rInQQNXp8u6OJYnYpW4blnZ4z2X9gVTZby0rWqWuoyNQFPIpPZLR61CxyBpiszC9yQO7ty/WoFYY6LjcKYQZ/o3NOrCcGstPxW+y13pwDziF2mi7gI+28F/wGCeAozNjEwODE4OTQyOGNkMjE3
+
+#EXTHTTP:ZDlhNWY0ZTUwZWY0MzA5Nk6kTF9gUXcFsMtGwxRy7svwBaQ8BfG/lPRSykAPwMM6W9Zxi6TQNIgiHFLHPaWDoTFkMGNhOWE4ZDM5MGU2YWM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.spo1.png" group-title="INDONESIA 5G+",SPOTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ZTFhMmYxMWU0ZjZmMTEwMWnufoJZWTPGD7leuknBv4+ymcFP2n8vftOj62EdokUzT3rt3pXUpsN7Kk39OGTJ2kyfPQgJVC+26g0qxZHtn4pkgsdEPwfN8jy/dqTMPMnQYTU5OTVkMTE0MWE0ZDNiNg
+https://wakhaji.my.id/YzY2NGQ3NWRiZjNhNDg0NDnD9qI7dlmZZdT1/aTIgGWqcLl0cGyZM5Uxu66n6fKsLINnH3DsHaKlka3i2iKmCJXyGxMZ5671MEBQ450y+FDl9fF4sBVodqQDADwjobqnNrp9EF9Q22VOESueq/KNNWE2NzMxNTc0ZjE0YmU1MDE
+
+#EXTHTTP:ZmZiMzI3ODk4NmRkM2YwOYY+oaGLWqFp1tcZ/E1PWB31XI4rCIv04NjDJFitnARqZrSX1nMRurSqjnYeNeYgdmNhNDQwYjhkNWZjNzNkYTM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.spo2.png" group-title="INDONESIA 5G+",SPOTV2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MDM3MzYxNzg3NjY4N2Q3NLixI7NzKu7baf8HNpVAYDlDOPsxy77bYGoFqnygxhIxh4/OCT15UXH+6O5C4ZaS5FF3jkqYuv/xtlBacyiEOLI+27OHMDONMr/jCprkT7wtY2ZlZmI3Y2ZlMzE4NDE0NQ
+https://wakhaji.my.id/Y2I1MmU3MDc3YTM3NzhkMegNLIWZM0RMV8bxT3UrKgCFHeXhJYsh1oXKH9QnnJbSmzS3RiQasW7GWmFxb5W+Aevva7yOiXeMAA6ZRaIkRgC9yEpXiKo8GWDWQPhaO21/i7Kb/j9SPruJela56EThHDNiZDBkODg4MTA3NDViZDY
+
+#EXTHTTP:YTY4MDJhMzE1ODIxZWQxOPuBLp283uaYpbCw6UWlKPrJSeGZ3XSTrg6lSGCjB8QPgT2r2LgZ77QCqYJksLBq9TM5Y2M1ZDk1MTAxZTZiOGY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.Fight.png" group-title="INDONESIA 5G+",Fight Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OTYxN2QxYmM1OGZiNjE4NjSiRXpx6EAbSG7+OHoeH/GTEg5SwilrSoA3eu4wmppqTQFyIQsTOWkf2h8fgYthN3UqRDzM/RXif4d/qoXZxy5pe6ZRaSZLEPxQBZV86p3DMDhiNWQ3ZDMyNzBjZThmYg
+https://wakhaji.my.id/MWQ5OTExY2EyNDgwYjhiOa1PPJEeI5ysUiCZcAjN0wzSfburiTfjlNRNVIRzr2HuXlfmcTmiltvfjYYGxS5ttwLs4fQ841ALsshVRuFK97sVeNaA7xozx2cs58J4QqLg7mGrM6O9ECUImLxg/FXdqDE1MzkxYmUzZTg5NGQzZjQ
+
+
+<=============== Test  ==================>
+
+#EXTHTTP:ZDU5MzZjMDAzMTU4NmEzNk269kvYQLXhuvoRbKEyigmkutsLzhryLGrX43YQyIP+sSgvlVW7rQuXhTm92o6LuzJmZjgyNWFjYzAzYWYyOTM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.bein1.png" group-title="INDONESIA 5G+",beIN Sports® 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OWYxMzljMmE0NzYwM2MzZBDdg9LdnXfT0yepfEMCiBzsu3mWV5ICC6QNhsx70hxaKUG/q1lyK/1Hr0WqRalNcyEf271JqUfDDsqTsumMEUlg8ezlv6McdoAoUBTBDoUkZWY1ZWMxZDcyNTA1ZThmZA
+https://wakhaji.my.id/ZTUxMzI5NGYxMTVmMmNjMXPU4H2pO/126mlyOA4/Eju2fuDXqvwbUHTWLoH9XSO30bI4vlyUc6zX6HGI7LrOJuUFVknrNWCT/uz/kSH5a+f27g90hcU6xXn4l2sbEmJDMjBmNWM0MWM4NzhjMTMyMw
+
+#EXTHTTP:MDBlOWM4MzhmYzhhYzIzYkIpvNP9KVXndKpt2lvTpvXRK+QcWS07YKy+KSfxiEdp68xJWE1prueh9xki6cmFPGI1YTkwNDc5YjA4NmVkNmU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.bein2.png" group-title="INDONESIA 5G+",beIN Sports® 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NjI3Yjg4MzQzZTkxZTVhMgOS0sZxJNem6Js8S+/3VT0ZUG97g4I8xlvE8A1x0pDI47ZFz0vhX6AxD2/h9rRuNqktFmpzdBr4vyrrX6rET5VId07hWwccZRrmfyE+2w37NmMyNDViOWNlY2JlNTBiMQ
+https://wakhaji.my.id/MmY0YWZlN2JjMTk4ZWRmOEbEaYLcCFni0QWubvJ5Q5UtQ+uG2MIh9Lg67OzevNtlbqgCedaSNV9dhwQ2HnpLHPvDe550ZBA2r52XAO/iDKpR5XHbrpSzMKJ5cYgaWAX8ZDU1OGVkZTBlZWYzMzRiYw
+
+#EXTHTTP:NGM1M2ZhYWFhYTI2ODhjZGPVPcoEyQ0ccshVsd5cEjW83S6DyP8j25ht5yiXE6YfaOUMFXZeB7S9NIxVVrlUqjNjYzg0ZmFjODM2ZmEzZGY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.bein3.png" group-title="INDONESIA 5G+",beIN Sports® 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YTM0NzY5ZGMzYTc4YmMwY0VbHYkhyOC8swGWe3Q5VO+OnjJWD1dJMlhdJmuIrJmfyZx0l+P7b3rbSkflD/IdkdYz/W4spp/FTMTMkySLPCvZgUQp5HCr0mlsu65xCXQ3NzUxMDI4NjMwOTJjYTYyYw
+https://wakhaji.my.id/NjgwYTFlNzhkZjNkODljM7CY01ZX+Cyi0uPUPv3lOYEBHuAR/PMd0/D37DF3VAtNPR9CPla8eUottFVJzYM2giTWLi3Xr4uHCkr8nGnRNziw8kwguctpXKxUdHn4JwlIYWRkNGVhY2JjOTU4OGNlMw
+
+#EXTHTTP:ZTJjZTdjNzU1NjdlZjNmOd9h7QjSNPihkH3xFWcCZKgUINaI+a1JcrN/TGNPl4ZD8/P0aK0jpI+3GxWxU58n82M0NGYwZTQ0OTE4YWVmNjc
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.bein4.png" group-title="INDONESIA 5G+",beIN Sports® 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YjQyYmFkNDY0M2M0ZjhkNv+KRMh8dmrk1GwRyKNEA3G9+/tBwJiG9hxGLTsuJc+2GTfcgt/+Wb64TsUVqM44aFBRHAogfT7v+Dn1aftJEnEk/sizo/P8iqILyJ9mrFciOThhMzY2NDIwNWE4NTUxOA
+https://wakhaji.my.id/Y2ZkY2JlYTQ4NDU5YTdlN6FqYBl3ADunhKQOFklT5QRv6vMnerZdh0fJKQjO2RPR4w6I3p5iPKwsyXgr/95i0S/l99QZ8jY2VXEsSgfTNEnHKvRjWLUHTNW7NLRwhZXzZWFlNzk1MDlhMTg5ZmYzNA
+
+#EXTHTTP:MjRiOWUyNDYyOGI0ZWQzZCpGKx+4fEwMgwy/ZfJH7JcOv+n42WLx1MvbVE6oW2LdG/HPO84GnNKilUcsq5AP+2FjNGI3MzQyZTg2YmZlMTQ
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.bein5.png" group-title="INDONESIA 5G+",beIN Sports® 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NjUzZjRmYjI4YjBhZjc0MozxlXB4z2RAYD8ObCwZPdcN3bspXyTsKiNErZYLhWgGH3EPGYNJsjnT78uaG86FqRsxPvkPdnpjY/B3TZrh5czs19YtLrX7Tu2gPwnNyvN3ZDMxNDczNGM1M2Q1YTI1Ng
+https://wakhaji.my.id/NjAzZDUzZjIwMjljNzY5ODSfGrrphfZgd4jNW06KX7APXK8NIeA/oiB9A1TG1+mEXfwXIEnTld7bZqZp4e0i2tVNV5jf2mckrIONe1ubJhxYT0NE2xmSMcuaRSowUa32NmNmYmNjMWM1MjJlMjgxMw
+
+<=============== Test  ==================>
+
+
+#EXTHTTP:YzU4MzQ1MTBhOGFjYjY3MRvb0mQCrY8NQOdA+9Xk5INP3xP/LtR6149MBhGgS59zaGVAPnJ4eQccNCQ2fs0A8WJiZjljYTk5YjE2MTJmNjU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.bein1.png" group-title="INDONESIA 5G+",beIN Sports™ 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=MWJiOWFhZDhiNTYzOGY1MecJxnUfk87yj50il/swRaqaYXe/HR0OLiiQw7JBnQCrvbLSGpVKInjTldfjJAi7Xjr5EI2lRe6bZ/RWj2Z29I8q47eBs9i/LIu7EPL81qhPYjQ0OWVjODg4MzYyY2U2MA
+https://wakhaji.my.id/YzNiN2QyYTcyM2EyM2Q4NzM6hC66bNrEB/4whpwskZDKTURzHRYIbelj8kloglGaXRvZOOfZcMVdzYkF5p7cUaVdPagHX/9J2sqyLdInRisWaxOtL/W3hqjLJk6z/3RP4CTVzqaHrnTW7i7IGr+XnDljNjQ1OThjYjhjMDc0NTk
+
+#EXTHTTP:ZjhjNTdlMzU2YmIyOWRiN9FTvYs0q5E693DmRv+Y6wzS+xxtRwacZxXGDccO8WD50DitVqhavVvaG9WxtFXcOzg4ZTlmMWEzYWYzZDg4OTI
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.bein2.png" group-title="INDONESIA 5G+",beIN Sports® 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NjEzOGZhMjFkMTMxNmJkN3MB0m6KqMaE7KBzInq0pKFTo8x1r5W6+cj87A52Y/qKLp+HJiPFdQa2ENERflhof6YianLEEDYA/Fr3KkGGcwTEXOo8tBVZ6x3r73S6stDeMGY2Mjg0NzBiNzc5MzgzYw
+https://wakhaji.my.id/MTY3OGRhOTU5ZTM4MzQxOY70HGaxLwCf9R9JidmMjNbUeHeyf6sMQUbf2YvYe9eewe419eeQ7w1oPx6sco1Kj9+nDPpBmcSzHFRLJsi8Y50gtLdF8dThB5romS2RB6rfxEbCE4VWPUqT+UGt0tgXYmFiYjE1YmY0ZmQ1OGY5MTA
+
+#EXTHTTP:NDU2YjBkYzk1ZjYyMmRlMHPD5dwkyxNX7+qov9dIrS+snQccb0sV3KMxVjgbkNkuh21oS51rRKjJva2mYd8btzM0NGZjYTZmZDY3N2QxYzE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.bein3.png" group-title="INDONESIA 5G+",beIN Sports™ 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YTRjYzRmNjkzZmFjZGFkOO/2/d9uB0AJu54IMOMW8S+nfHS54LjuGEdpSHCFu4SfewClUjd1k4fK6NZxGwtXbiHn/YRScAbnsX2a7L0oZZPcdUvApd+cufbIRkZiqBDjODFmMjVlY2Q2YzdjNTA5Mw
+https://wakhaji.my.id/NGUyMWExZTlkMjA4NTFkZVFjBhtIWDKrgs2W4U9/DczX1jCLC/J5G14EBNnUW3C79ux7fMhdyCjUGWrWIvS/YkRyRm4awwlh3BRQ0ggr/rqmoCb/t0xfQYtHxGfw3AO6GBNVJgBLbh32lZBU0s6U7TU3ZGRlNDA3MTlkODdlNjM
+
+#EXTHTTP:ZTdlNTkyZTYxNjgzZDA4YzsLgKHyOAnFOTWo03o53I0a2cpamSz/doBWurbW/Xh7nvAnDnBMXQm1+CI8ikfhTTY2ZjYwZDBkMWFkZTY1YjA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.bein4.png" group-title="INDONESIA 5G+",beIN Sports™ 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ZGU3YjI4Y2RiNTU5YWE1N/qY1RVVqPVcyDU2qFySCfOgP1qDnpHJ55iQCMAfcgh82G9ToT2JeMpUrulC3pdLUkAcz/uEoeivcXFSD/zlMgB9qlQvshWEVZgNHI49vBD/NTE1ZGUwN2FkMTY2OTUzZQ
+https://wakhaji.my.id/ZmI0ZTk3MzA0NzU4NGMxNdwDsi/HZ6LyOV4Uj+/G9vekSBJ2kwQgz1Fk1wAr9S1cbBzgTxYmNBBQ6H+c9lp16AnMlhHI38ju942TELbU1Zo4WXvYTkHHqoUkFKqyukozLbXBzo8fg34yOOSH3oC6OjVlYWU5ODg0MjhkMmMzZjk
+
+#EXTHTTP:ZDQ4NmVmZDU1ZGEzOGM4M6oetwKnxVfgo73umg91jYh8KcbkuJWDXUYy3T2KGx7eo5PEyvvdmPcjm9FHMtlOSjUzZjJlOGQzNDJhZThhOGM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/If/refs/heads/main/Awak/2.bein5.png" group-title="INDONESIA 5G+",beIN Sports™ 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=YWI3OTdkNGY3MjQyYmQ5OQyikzNXrFlTPwkZ37l0ZlnYiJRerEeyakiQR9XWT8wsW8WhS3YySpaYTJaUgADMG9lL3cSPT/M6q0UsovX8JmuGM90kb4FC5v5xP+cckX1gMGRhYTc4MjA3MDQyMDY0MQ
+https://wakhaji.my.id/YjBmNjUzMzZhOGQxN2QxMyD52nedTEi3NtlTqSOCvSiNZzd2oVSARvtoxXNBMIjUgsqF8y5VtPzwDzys249SX4GD6DnVGTZVqVR5NJebW8zgwfh4Y9XwO2q6h/etx27Vs7HZs0DTT7m3KjzJSvL6pGYyOTk4ZjA3MmUwYTAzZDQ
+
+
+
+
 
 
 
