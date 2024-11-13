@@ -20,7 +20,16 @@ http://iptvonline.x10.bz/getchannel.php?id=UCJduEGukjOXzTW4jfkQ-ihw
 
 
 #EXTINF:-1 group-title="RS. RAUDHAH" tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/saFedlG.gif",Live African safar2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://new.cache-stream.workers.dev/stream/UCJduEGukjOXzTW4jfkQ-ihw/live.m3u8
+
+
+#EXTINF:-1 group-title="RS. RAUDHAH" tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/saFedlG.gif",Live African safar1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; GGTGBBCCY) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://new.cache-stream.workers.dev/stream/UCJduEGukjOXzTW4jfkQ-ihw/live.m3u8
+
+
 
 
 ##########################
