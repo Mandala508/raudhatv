@@ -84,10 +84,11 @@ http://xtv.ooo:8080/live/Raza335/3355141450/350972.ts
 
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/F2e5weV.png",Moji
-http://opplex.tv:8080/3116580700/0700/350997
-
-#EXTINF:-1 group-title="NASIONAL" tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/F2e5weV.png",Moji 1
-http://xtv.ooo:8080/0966717777/0966717777/350997
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+ 
 
 
 
