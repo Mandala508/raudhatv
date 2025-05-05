@@ -49,12 +49,12 @@ https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 
 
-
-
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:0 tvg-logo="https://i.imgur.com/z86Zlcd.png" group-title="NASIONAL",MNC TV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+
+
 
 
 
