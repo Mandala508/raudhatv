@@ -51,6 +51,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #EXTINF:0 tvg-logo="http://playlistku.elementfx.com/logo/indosiar.png" group-title="TELEVISI",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:0 tvg-logo="http://playlistku.elementfx.com/logo/indosiar.png" group-title="TELEVISI",INDOSIAR HD
+https://spmid.net:443/play/aR50J7jxCCJynaifr62_E-8CO466X_PtJfipZ94KsSs
+
+
 =======================================
 #EXTINF:0 tvg-logo="http://playlistku.elementfx.com/logo/moji.png" group-title="TELEVISI",MOJI
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
