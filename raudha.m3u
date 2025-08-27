@@ -14,7 +14,7 @@ https://www.dropbox.com/scl/fi/0yzy7wgmox3mlfrse6xr1/udhah.mp4?rlkey=yiauir1d0jc
 
 ==================================
 
-#EXTINF:0 tvg-logo="http://playlistku.elementfx.com/logo/gtv.png" group-title="TELEVISI",GTV 
+#EXTINF:0 tvg-logo="https://i.supaimg.com/3cc33360-5be0-4788-b161-6c86c6953187.png" group-title="TELEVISI",GTV 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -23,7 +23,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 
 
 
-#EXTINF:0 tvg-logo="http://playlistku.elementfx.com/logo/rcti.png" group-title="TELEVISI",RCTI
+#EXTINF:0 tvg-logo="https://i.supaimg.com/c94a372a-eea1-4986-971d-ba5a26aa0de7.png" group-title="TELEVISI",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 
@@ -34,14 +34,14 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:0 tvg-logo="http://playlistku.elementfx.com/logo/news.png" group-title="TELEVISI",Inews
+#EXTINF:0 tvg-logo="https://i.supaimg.com/178087e9-58a6-4e14-8ccd-ab43f5235f06.png" group-title="TELEVISI",Inews
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 
 
 
 
-#EXTINF:0 tvg-logo="http://playlistku.elementfx.com/logo/mnctv.png" group-title="TELEVISI",MNC TV
+#EXTINF:0 tvg-logo="https://i.supaimg.com/eb06e87b-19a7-48ff-a8f8-950233dae595.png" group-title="TELEVISI",MNC TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -54,30 +54,30 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-#EXTINF:0 tvg-logo="http://playlistku.elementfx.com/logo/sctv.png" group-title="TELEVISI",SCTV
+#EXTINF:0 tvg-logo="https://i.supaimg.com/84e2976b-b854-474a-a827-688eb27becb5.png" group-title="TELEVISI",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 =======================================
 
 
-#EXTINF:0 tvg-logo="http://playlistku.elementfx.com/logo/indosiar.png" group-title="TELEVISI",INDOSIAR
+#EXTINF:0 tvg-logo="https://i.supaimg.com/9bec73af-a868-43a3-975a-2b7cd3a10cdd.png" group-title="TELEVISI",INDOSIAR
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
 
 
 =======================================
-#EXTINF:0 tvg-logo="http://playlistku.elementfx.com/logo/moji.png" group-title="TELEVISI",MOJI
+#EXTINF:0 tvg-logo="https://i.supaimg.com/c494e6e0-3748-491b-99b1-dd74feb3e721.png" group-title="TELEVISI",MOJI
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 =======================================
-#EXTINF:0 tvg-logo="http://playlistku.elementfx.com/logo/mentari.png" group-title="TELEVISI",MENTARI
+#EXTINF:0 tvg-logo="https://i.supaimg.com/57fe915f-f671-401f-be8e-2f90f0af36eb.png" group-title="TELEVISI",MENTARI
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
 
 
 
 =======================================
-#EXTINF:0 tvg-logo="http://playlistku.elementfx.com/logo/antv.png" group-title="TELEVISI",ANTV
+#EXTINF:0 tvg-logo="https://i.supaimg.com/d79d273e-5718-449b-98b5-59af5f0d6c9c.png" group-title="TELEVISI",ANTV
 #KODIPROP:inputstream.adaptive.license_type=rg.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -87,7 +87,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 
  
 =======================================
-#EXTINF:0 tvg-logo="http://playlistku.elementfx.com/logo/vtv.png" group-title="TELEVISI",VTV
+#EXTINF:0 tvg-logo="https://i.supaimg.com/56394beb-418e-4caf-be0a-d48a62fdd6dc.png" group-title="TELEVISI",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/vtv.m3u8
 
