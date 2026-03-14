@@ -71,8 +71,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 =======================================
 #EXTINF:0 tvg-logo="https://i.supaimg.com/57fe915f-f671-401f-be8e-2f90f0af36eb.png" group-title="TELEVISI",MENTARI
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
+https://spmid.net:443/play/MyEoo-x6p53nRakGbj5NBh5dWTd_lq48vH8_gJXkwQ4
 
 
 
@@ -179,8 +178,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.supaimg.com/ab647fb4-6490-4256-a956-098d3a0c2144.png" group-title="TELEVISI",BALI TV
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/889
+#https://spmid.net:443/play/MyEoo-x6p53nRakGbj5NBroUq2a_PIYNl1d9c4VO68Q
 
 
 
