@@ -88,8 +88,9 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
  
 =======================================
 #EXTINF:0 tvg-logo="https://i.supaimg.com/56394beb-418e-4caf-be0a-d48a62fdd6dc.png" group-title="TELEVISI",VTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/vtv.m3u8
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+
 
 
 =======================================
@@ -98,8 +99,18 @@ https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/vtv.m3u
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 =======================================
+
+
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:0 tvg-logo="https://i.supaimg.com/ccb7d82b-b902-4b84-a3cc-190540810ced.png" group-title="TELEVISI",TRANS 7
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+
+
 =======================================
 #EXTINF:0 tvg-logo="https://i.supaimg.com/48c6e08d-dd28-4d70-be76-48bd479174a2.png" group-title="TELEVISI",NET
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
@@ -113,7 +124,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8|eferrer=https://dens.tv/
 =======================================
 
 #EXTINF:0 tvg-logo="https://i.supaimg.com/a6fa6c7d-04ad-4fc6-b271-894f8aa933dc.png" group-title="TELEVISI",TV ONE 
-http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+
 
 =======================================
 
@@ -128,7 +142,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 =======================================
 #EXTINF:0 tvg-logo="https://i.supaimg.com/ef113305-ab53-4d7c-8665-0145faf16233.png" group-title="TELEVISI",CNBC
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+#EXTVLCOPT:http-origin=https://www.cnbcindonesia.com
+#EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 =======================================
 #EXTINF:0 tvg-logo="https://i.supaimg.com/0952a238-6f53-4b18-a310-38438f793e3c.png" group-title="TELEVISI",BTV
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
