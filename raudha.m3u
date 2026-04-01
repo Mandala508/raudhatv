@@ -499,6 +499,222 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 
 
+############### MALAYSIA TV 45 ON ###############
+
+
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIcMtgnk6gD4Y0_5feUp1z4CNQ8QuRyLmY1fb8vzqGG3OBPZLcZqq0kTJAbaMkuXbKmEK3B2ttbM0eNeNRIPVYVnXtSBMRtKhkMIfmiLFMWnUgki0Fj8W_3vgO4SlcgVB_VxXHsENAmR33u_MhT9ShKbgByZjW7lyN9vFz13JT3KnDl5S3eYJy0e_lP5gQ/s700/TV1.png" "" group-title="MALAYSIA TV",TV1 
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3NM4iiliVmmfbUzG9zhhtEJNpKTSwwsHYUcBfh96mjhDdCR9QCpkkG0dqLCAGfPyym_CsprL_fNsoSa410DMbPQgDjYlUGKBsmE26_8qiQqrsYOvRPsDaOOBfdPXMn2MFx-LCIfD_To0QqFRuUlrE2WYA7EJFu2gavR9nQ75AMl14tOvfY7ChQ0HcMJLC/s700/TV2.png" "" group-title="MALAYSIA TV",TV2 
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3NM4iiliVmmfbUzG9zhhtEJNpKTSwwsHYUcBfh96mjhDdCR9QCpkkG0dqLCAGfPyym_CsprL_fNsoSa410DMbPQgDjYlUGKBsmE26_8qiQqrsYOvRPsDaOOBfdPXMn2MFx-LCIfD_To0QqFRuUlrE2WYA7EJFu2gavR9nQ75AMl14tOvfY7ChQ0HcMJLC/s700/TV2.png" "" group-title="MALAYSIA TV",TV2 1
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsebXnJHE_br0HMmIRvsdX2bNHRtXWfbAC8_C5CXcqlX40qcPO-HeJDMV5ruiXCHbRE7ckgxH5sUHpYosTQS7GPQ6xGUEG5JBrqL-uWgfTBnepfQC6YLkoFvg5K2HU8EDZjIU9hTC4VfNybR1_LhjJIXjQDYBjEvCZPQX5yO670JvwhxO1x2pP0IjSK278/s700/TV3.png",TV3 IP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/19.ts
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhZNzfqUV-m5NKCVJVtNrxCNwWm1QX9mt6buUkBDEvSPTZZnoXAr42a4ZZnRh7QNF-AvhXehaOVgg0UJlu0KykCw5GOzxJwVg_1kL5xH-ZDUbiJDOkKQ4Hhro7BgdGM3iUHFPnQI6g1hGX5Td0ZCAtRKN6pqBLp9n8kOFUd_22g59fLXOPtbxszilbo88M/s700/TV6.png" group-title="MALAYSIA TV",TV6 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY-g3ZlSVsFV1yuOvbFfLizrABkRs9qpSxidPZ7agDeHfPEYJ25viPTd2RoW6LSwe5v9aUQ5G_pwwfONnBjcLBWgvxoppSmDhLFDbGWPPiDqN3Et-YGCDgvN0nxx_b95Of_4wYoNrFn2r4VWEH2yqiFvvTerV8pu2dGK7zH-gNgtBN91sHG2y_FprlLe4o/s700/8TV.png" group-title="MALAYSIA TV",8TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8tv
+#https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+#https://link.zozotv.xyz:443/live/usez37/zxy921/21.ts
+#https://live-ssar-01.tonton.com.my/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGpmQ6Ofh2pCn1zWpc7hf_7wAmLQK-Si45lgJze0_tiIrrzHXNVmN0zFdwO5Ee7b5vD8DvdixIYaDx-TLIVBj0o7wecUYMnVdC9ejKJDjDhQGoHAWHj5QpcvnuxExde0E60DhHOHNByyCDmB-wbPdJvPm2AGZa0QgExt0XRestcte_jyUXDFlYvMdnKmME/s700/TV9.png" group-title="MALAYSIA TV",TV9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
+
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVsC6OfxC_fa9pnxBMuYqYz-NnbW2YPCfrKpIsogH_MUcDFVnbGMgbEa5yTBxY9l9Ulh8pPe6qAWTX2ywAgCq7xt7IoHkf5KEFROCDISVu0-PR-NSap5XYbT1i9UuB01bilfI9BgOcauoTWAPCjKcgA2bB0V0ejeIl2OYkGlwLSNkuJvRZQZ7R8bN1_mJ7/s700/ASTRO%20RIA.png",ASTRO RIA IP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/532.ts
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnMsdgFMfc-HbNmGsTQEga7PHaNxHuNA8tLCxOKIK_9H2qSoXCbBcewFeLPZXCXK1HE_w_16fDAHIH0OSnHbPwsWcDcTrdtOmeJJnAHdOUt_uP5tUT2AkT3Adcug1QnXf7JQOh8Ws9BevMoaS-PS7xaq6ceBeA-Pc2xjxq9ygkXgkIXGnB0A1kVtPr3ky5/s700/ASTRO%20OASIS.png" group-title="MALAYSIA TV",ASTRO OASIS IP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/30.ts
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvjvZLFsuJiBzZyxPONiChkPazll6J3Ege63bQ_gmivhl_ECsSE9j5oQIMbLVYXCQtEL0eT5WDf6vh4juqCZhRrWcOTAfuAUv0flODSmLWrXnQ4RuukJzYadgPGT7LpHkIuI7UYLf65pMa2TqPERL2tadr0nGRy01ot4OA9wtMkViGcyX7TUa18Xw1YWt7/s700/ASTRO%20PRIMA.png" group-title="MALAYSIA TV",ASTRO PRIMA IP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/33.ts
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVub0Xiv52seABZ7gJRxmw_xtKNzmMQ-p3ilfkZ93B4fDJZ1CS0DIQvlS9Nc3zMmmfh44IkXaUbuaFtTdovSLekSRn-kfWSbOUF1fXKBKSqIYThbuM-T_6axpGfmZOWjzGFgZHfGrYYAtehvuhb7FvUXn7AKNX3MaEwRZYCY5FUIAMrV1V3bKNy74Zcfzp/s700/ASTRO%20CITRA.png" group-title="MALAYSIA TV",ASTRO CITRA IP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/36.ts
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnO8KfqMZ6BUYyMMHysxVlow5n7TbiWLGc7XH9ZycMFjHyQJQvskOULZ42JfjLCUSWi6lpiFS62dHFqYY9vFn9V-tLkFsuNPd4EzsPcX18enl_wOAn_J0gYiLMrdS7IaEhc6bOnxF8p2VUhjRv8ryB_9gEKhpgdA98WTQWXW_wGsmFSmoWOnKmOY8PrzHa/s700/ASTRO%20AURA.png" group-title="MALAYSIA TV",ASTRO AURA IP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/38.ts
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl-tAmhtQYEnEDq6bLqaWVvTSWWAfK3D1KA3GQGD06fpqCBquVwU60RhCCiJu2TSWmiyRqbZsMvxxvl_ZKhsCsRQwI6srgBqG0ic5runSHDdLKekyv6tdQO6-GZrYcrlPCQESrAJcWXQjkvyaPMHiOanJYepd3AtpPYUuR4ShEZs9GuteUc363OcAD3kRy/s700/ASTRO%20RANIA.png",ASTRO RANIA IP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/39.ts
+
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigLHdqPZ-bTlkJQeKf5Tt6f7ZoHdre130Dc0n1tY35zvOWEyVHXt2_Fprl5yZ5bQMJKgPYZtGKdJf6Hkmky3ANa-91Dn6Y_-4oYkvJNdijnDeYt8djE8f-i7RQQxTCEhew2S6YFAYYFQOghk7A5Zl8TK6u6mUdFfWrBA5FV7N4agHaPHxYBhglS7sZmOFt/s700/TV%20IKIM.png",TV IKIM VPN
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW4F3gXCoywYQi_VorZR6oNetHw76PpKmRtWKwn9ymiGK67BkoOHULUfI9xdgwTQTWncniqNru84tBkcT0hhkXe6jpVTkwYuBaD72sLPitHugQGrbuOdQxmeGUskkf7W0hrxylLK5VjU4YGRMLxE9zTSgROlrZ_2cbpcoBXM5gKFaxBRmjGr9zLhCPmyTY/s700/ASTRO%20AWANI.png" group-title="MALAYSIA TV",ASTRO AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdgJ-59jzgTsaOU9VHNQqHM513Mmoo91dVtZ6w4_oXqkDMeXMvsihD2UA4exJr_mr_MeQzTdxFYcP1fqRpCTLnhFiWHc7WpUBakJo_syYNX5HcRF131qJXlLvQ5pMLGymj0KTjuBhOPj-US9bIN64j-pWCLBM9zNzeyt0Hug4zwJ2epK0H6-IWbTQXXOfN/s700/TVS.png" group-title="MALAYSIA TV",TVS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.tvsarawak.my/
+#https://live-tvs.tvsarawak.my/live/tvs.m3u8
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C83OO1-ty7HpBxIWre_PMcGM/ts
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoVy6_Q9v0pu2qaqBMW2_TDPUVSEFxADX0ZYddJ8xxZr_4I6l5gtSd1qPNNrsnGlA6dSNLWHyN-qnhtL-ea7JzKw5qrPKT087E7UlZo-umWuJzcEPvHkvP1Sde89prEmxOwKNDCT6o9crmk-8J-R5sUdUMC5Y2O7rQuWl5O6BoKkTN08xTqlie1iScUX3-/s700/DEWAN%20NEGARA.png" group-title="MALAYSIA TV",DEWAN NEGARA
+#https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b2596000_slENG.m3u8?id=8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRheOcmYGNsuBcM5h2x_A9Vw7cjv1vFSNdei9HI3ONagXzASe26cxs69maMmBYMNnGJJMyUDB4zFt10TuYMxQX_Fgc6vsINp-3YYHRyh7TqwLIn3qzjREN5PrQd4EDAR7rpcm5cwGhwndo-QUuFusHc9ft1sw9nxDa8FLqZW87zFdQ20a6uYaL7RHHuD2t/s700/DEWAN%20RAKYAT.png" group-title="MALAYSIA TV",DEWAN RAKYAT
+#https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b2596000_slENG.m3u8?id=7
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtGwXGOwS_LYdhXHpwgimVK3gjn9jtm4j8NbVEab4mOml5zchd-WgAi3FYg7DkmQscDZDBET7rCOUyAfG4zyT7iZeTwLe35JJYGZZXG0r_JqISpNMJaxxxXR06065QzsBVYmG0WSyWss_5wX6EL4GElWDpEL9-PC8P9P3RfEcDQ01QKvTUAM0GnVWQtbSp/s700/RTB%20GO%20LIVE.png" group-title="MALAYSIA TV",RTB GO  LIVE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXZ5T59Sa7QtWLBi0ZcMVt_HYymy6Ro2A0Gyf2YynBmRI34chh1qz_wSR65T1phlsrM3uiK3_sUJel1PLksT-md58oSvcAJRjjZ1UToQQvbEcgIPD2hnexf2cL5PhzjjK4f8YDT8PjdELu-zafmozUZg8pmJi5OIjoUsO4DUszhz71tq-TGAVq_kZWLuXb/s700/RTB%20SUKMAINDERA.png" group-title="MALAYSIA TV",RTB SUKMAINDERA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEv4qc6LePy6h75UxLSUWdyse6YyntVKqdygsAh1HfmAgDDqs04KojICIFrYojgWRLXLD6OPQgt2xcpMxxmh_aUHQqyGZQEhHdZc37uw4V2tjOQKU_IGUTAFhYUd4A245N4bVRO_RmdYYdm2o_XnmZjFZtpG3ypbfyitCC-E-IAqhxv3enoXxUnDI4EDpb/s700/RTB%20ANEKA.png" group-title="MALAYSIA TV",RTB ANEKA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="147.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwsGAv4YT3zdSRooTAFmGevl5GL244CMHmQ-1y89BHyF3FYoIjVKvBU0j8l7Vc17sSHCiohikXUf2hf9fi5M_5ac2NZbrRrXd48GM3qxEteMIXzOyLYD7McOOAtHDKjyilUkk0bmJ64nw0VqZ8RDbTAlwrbj7HkW_EluNchTzR4E0b4BSI1MtYMAcVAIoF/s700/DIDIK%20TV.png" group-title="MALAYSIA TV",DIDIK KPM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live06.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHUThe5hhQQA2Qjlc7Mwh_kGHtKeslsBfJ9ejMrnCyc3W4jR_fREkHri9KMhzkSAsRyamYbCdGULM0AEf0GWbAeMkWIbPQ5mP0Qqz_AiAg2NMECxVIt4thyNHlBXNwt5OexoJBEwm5XVTw35E9oMJOz7JObdSGHcJQGEGDfu3dFk1AhsQYCqGkoT_3YK2S/s700/SUKAN%20RTM.png" "" group-title="MALAYSIA TV",SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQP6H4tbicNweZcf5y2SSaSAJUynbpxa_8j5Acror5tmJKTnuwVhM5dKp0yIcK8XWqVnpDkPRXBe6Kuul_HdaF7h0wEuO6Q4qHQA7praMsf45a8-fDVKZdTeurhDeUjZwGC9hMRoACp_usI0RcvWYKEUdW80GXTBFB8T8PmyCsVUcE20-Z_ko3wuZyqdRa/s700/BERITA%20RTM.png" group-title="MALAYSIA TV",BERITA RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibC5C0I9HG9NfgXTy2CxmImkIrgoP4aK9gKzo0zQLKMvlIl0aq9JYWGrSXmNd9jUNFLBEfJDL5IT4HkadVpxF1HDRhH2o6eF9oN6am00LlBzC7BU_UJPjfZ39etkJ_OpLqM374PkeTcEnKM6c8LPJ7Jjw3HakT7JaKo8O_gzLAap6ULhPISS9uhxi5Gh_U/s700/RTM%20ASEAN.png",RTM ASEAN
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUrj0iPdFzGkzRYSfDxhBRNIIKUeJ7hin3UDWMLOqIunmTcjx_YAnWNlkTd7nrgmy8fZzf0DwZOkt5Fxnj0NSI1_lbXh5TtHXmDm57_z5AONXJ9g3BXzsvX3Ay6TlPuc1Oymz-ZTg2bk0tQ5FV9WqbP8NEtek9uh5_OVrFCCKxx_TGVn55jA2jD9SwCESg/s700/INSPIRA.png" group-logo="" group-title="MALAYSIA TV",INSPIRA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1900d0fd8dfd2357ca2685c66628bf07:9c105cc68caa9cf65315e06ef50860ab
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live29.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsfdHeGsRhO19GtoHnHs0d6TbOkd7qdGanR37iC_s9vhGjSrBLM0eg26Wj96jky7otgv3ybwvq5Pt16ly0PI82dLLmNXCGHdIjNN65B6puIPghiR5YVxzLt7rTVShncYKOjVXHcMxMVz-TpXSYNRVNnYBO289NEkNgtROwDLz7WnHDLABXn_FYTAdUXKGk/s700/DUNIA%20SINEMA.png" group-title="MALAYSIA TV",DUNIA SINEMA 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkBKG9-gyYcsvQIBThQXQf8hG_HRTJMqw5lI288SMzS-fwAOdZilO1bvrFf_kpE1dq7T3z6glPft0K1e1pT4Uy_B_jDfesCaptm8aJ1g5wOM7gbyjCb6eEsxj60ezejzdbwTCc8trjsF-mBqWaLcpCctLN2oCNlzSRfBYcEr__d2Dc1y73NyHDd8L4u6Ve/s700/SALAM%20HD.png" group-title="MALAYSIA TV",SALAM HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cd0f33db5a826c850e0ef6ca9331a82:207f3ac36c8d5c85395c147154d41581
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://unifi-live32.secureswiftcontent.com/UnifiHD/live32.mpd
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxobpMmj1ypCeZi_Bs3gxdIs-gfBiwZHCs93AhGJ1GT6WQDcV8PwbgCX3USsOin3Js1LTPBvASpgbGJDAjdJEQg_pIU48EORh9mBEwGJ48NixWISm96J28NcL9Un8-dx_cy30Zb78Be9GTT6sXH4aaF27QXA1Ywu5CLJeRWxFmV_l5i-iXPPpI4quoLOu/s700/OH%20MY%20CERIA.png",OH MY CERIA!
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_XY5BUzssBD9s2U7AU4Aw4R_PiY1dh_usVU6y0QU2OSUiF8tbj0TUghlQo_oVD0rMJdq05-Ipo3-zlGKTp5ajJKgvTqTNxyWCbYEvUU9G09mUKgHwu255mjWFyPYxug8IK1QESMmd8XY9wBjmHtNY-OsBBqdRfKBBgTpesutWbj0ZZrcuhtl79c_rqTW/s700/JOM%20NGAJI.png",JOM NGAJI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-xuQVET4rCy46ovPNWAI3YZby5qZ1LKOexYujOV7_zoH1CcXL-OjilbIeu2bVC3CYXusRI3NkuUPkgjY7OLloQzCUmKe0iEyB1d6d5RAUYq9jGq1yNKlOrUAhh3XqpyGKvzem3p8tdBpY46B1ar_oTrENCYdwAgr8QxyVycwVncchEIJI6iJQowRul30i/s700/DRAMA%20SANGAT.png" group-title="MALAYSIA TV",DRAMA SANGAT OF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/DramaSangat.m3u8
+#http://www.geocities.ws/wahyuiptv/DramaSangat.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfaf-XFpNMubZsLv2WGtYqNEtH47rc-dxLfDFrtDXTB4Xs7iTf-w2KsWejlFKKqQtiaZi4mcvfRy6RB3EN5RXwxpp2UF5slAESLMjsyM9DRZ7efRN9XbgjC7_QL3swgxpakIKo65_nsX447UgTfFQWH69acIiLTpmhZm-B87lHQbQ6B7b4ppzdzkxdJhmX/s700/DRAMA%20HEBAT.png",DRAMA HEBAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtqd183dWkNHi5N3tnAAzrDEA5oQlDVhHqgLunEmcy1Ta0kE_l8dbJZ8xU_R2gty6qhJPXz0hq6TrImIoBY-BcEUeRf6fs-NMNU-2WDS43hnlbK2Pc_T29rMf9L3uCXNqTkeA71kB2gKcp7y6nmpDjsmF1cccWIRQOzcWykN6nr48WbVrUgO60fZJc38Uz/s700/DRAMA%20HOTPOT.png",DRAMA HOTPOT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNHyG_1N0UMzEaQjioNE7H5h6BGp0TZMGwmysFvSlFS9FPEKJUUlM0W1IPQMfe6tLBLg3vox2QU-_SPCDQZ4lL9-Kd3xBLHI6_xeEg7NFO29QO_LP1zLB-iDDgmlRGMOUNIiA91j_-5eM_B0u347VRHpt0c5n2dlyPCh6Tl-ID4ENM8_bXpyzsCzoqMtLv/s700/FILEM%20MANTAP.png",FILEM MANTAP
+#EXTVLCOPT:http-user-agent=android-R+
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7_2dhgEx15bdwc91b5ySMLwqIGuwCxp04XYDnmIUhSEiZ6pHwg3NBdF0eT5coEOzZMujhKhi_vmAbupMXx6AHpSYaZuCI6wkT-9EOJBbnvNwuU0VdOkzJS7MxSrgnzE0GfXZDOnJg61mK-1o6XbP7NJwOVkxaR0r-DAr1GglaR6pNBerWGz6jkQRVubGx/s700/LAWAK%20SENTRAL.png",LAWAK SENTRAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+
+#EXTINF:-1 group-title="MALAYSIA TV" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8EoTuxnFZeiCEMSG4av2UQ1_lYzDhd2bcK235BUlLusMuTp9mW4v7bHCG2GkTVYVNb_zDFihNNSY9EKlh0Ka2PK8AN_6o1KTfgyBQ8yy7N9WdfwMHgfl5NFSOQIu-9Ydxkq59G3gF_FiGmNUaFErPoVaJSi5BkWAkMWKTK8ciREreHifKiqPSK16CIZrv/s700/TRAVEL%20&%20TASTE.png",TRAVEL & TASTE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+
+#EXTINF:-1 tvg-id="146.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHA_XGOV5pqbwpJd6_WESwUi5G0smL8GDLqe0EzKhB52mOMjp_An64ntWCeMm7GNwL1jYXRpFZG6DgchXtVcaw7aGjj1rHKHPLX3ECjdIC8T0t7shiWvSk6mO0Wm9oJVARor1TDyNFA3rwSuTZnv1M0jJm-Ha_QkFtbZAYVNF4DROJkIdQLBbKuQaQI-2p/s700/OKEY%20TV.png" group-title="MALAYSIA TV",OKEY TV 
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyc867zxROaKeYXgVTPG-q4d4SlmiIj4ajiY069l1o6dhL3TSHouQ1iOnXtJwf5yfKbZEvC0YGGEt7rgyF7wECZmG3AMLtwLvsOYKSd0-CIzizbw6_jZAPsB_dHHa58siTWiMCsg-c5oQO0ZYkzhEVdK-FpkIaiX30r5QDWkoIpLHf5ldPnAt2mM_rVw-H/s700/SURIA.png" "" group-title="MALAYSIA TV",SURIA 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
+https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGEtmzSQ-Z_NAW4gkkwpXua8MpKVbgRlr6Q-59kA1kdgpZ_pNT4qtYr0YZCv98bhIM2iFyZ4Sk6tBZM09Ep3fMiV22oX4pjdBMWIOrCsmZszNV9rimeHhqUiPuV2ZrH6rlL7Y_6Dp0AHQ-SfK66fXAV_cjO__DByC43TN3aVtUkOxzKZDdNFxazql_2CDZ/s700/SIAR.png" group-title="MALAYSIA TV",SIAR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
+https://unifi-live31.secureswiftcontent.com/UnifiHD/live31.mpd
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgan2dcX3iabuwjBq0iXclLKepnd6BZW-UYwdSIGhxTgqhYh93LhPsg7OdPvMJG5o2KLGTwIFcynq8zMJ7tuDDhzmr5mWDi5iTzIsZjGf32R4G6fjgUc38SyTlZchl-35hUIOLomYYUq4095N152bDw-Nyr2FNs3s5f3EkQHkLTLEisZAJrlEm8pV0R0IHs/s700/APETITO.png" group-title="MALAYSIA TV",APETITO HD
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghf_uborEatg6WfafGFaKtJ4h7o2X5WliH23CYR_U073sKmzl71SqVg-qsdGj11nwfJDNUoWy2hyphenhyphenru1G67YapDoNyEVLDD_J5GFaBCFysmgrQ4Wi2kxChg_DfXNyeik83_RLxuRDmTlYoP1Ew96PRT1549iLG6gx-C9kAzVGVakHulHPPEXaKIkanl1Sas/s700/AURA.png" group-title="MALAYSIA TV",AURA HD
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmdw8ZFrvcXLqsS_PaAD2_8Yz-jJZZPtUD61KuEzk5yNfF-LHhzQaXHkuWZfpqdkZSHVe4uErnIYyg_x20QsVVp7JmoZB4xnezIZW1vf_cZEplASym3e5YnM7_GQchjjLA312uR6TRMf00qBjzN1dKqmcSNW3mCSz8pBRjeIxYzWVTp6coAWhGPm9aOaQm/s700/FITRAH.png" group-title="MALAYSIA TV",FITRAH HD
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Fa8Wib136eW9f1CJ8jj9MN1cf7nkQ38YRF6ySJ8yVH1Xu4mn0Wqnv6lnIAZs_f0t7f7vnqSEuokGDKhnVtVLumFfDT1Yk8nbL8LnxN49N6OI7XYhB94MsS5wMWjGgx9ATwzYbfZE-b_G-MruJdQeC5HzlOngatoZ64jTR7HvcpxbWgOzMymjGw4tOlZL/s700/JR.png" group-title="MALAYSIA TV",JR. HD
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUgJGTsnGznXzADTdHNgbJ4915Nbz4oz0SUEzdq8VaI56umVLQ9TOMyQ8auPYtfaxpGIjhEQpaYjMPkhG0wUw5ZsFt08pbfwTPsR92NXYvQSbs24oivN-EyhRARHDXt6uhhv4CvN5pXEOt_k0Ml3pzL2ulIjI_NxxvWe5e6u1uNtD6fDdNltBIH-XZFsUb/s700/LEAD.png" group-title="MALAYSIA TV",LEAD HD
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEXKkLA9p2sACvae3G9MOnmqcyFgKiWBAqzVo0A4C5HhjluZVA43t3SkIukQIVrohdFmaPp9Sloa2omxg40aSmgTOOj5GZhZfUUpmnb0TGODlX_N8nr4a9IPzcSz5vBAJhXlH8pPGMk4anY00RWLbt5gFaYnE2WFu1WoAedBJ1EvySbDf_nS_DoYTI_JpT/s700/ROLL.png" group-title="MALAYSIA TV",ROLL HD
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNQZ1eNNOceEjTqk0q_ceoCdnRpCo92EbLzjD9Lhm2uxqvBqhv9iaPCDuBanHvHkWaO4GzWbjCoeRPu43vxXjHnSqrtGW60p-qzsnM74993dhuyjpebKDF6RN3DqP77DliyWcmgoh6kle2VnjhK5W4mPwAkDwWqcagFrn51U55Tjf0mVfgachqYKl5LqyX/s700/SNAP.png" group-title="MALAYSIA TV",SNAP HD
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 
 
