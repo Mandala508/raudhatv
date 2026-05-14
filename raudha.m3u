@@ -721,21 +721,31 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/4aa0771b-d227-4930-8101-8edb50d0124a/0cc7edf4-fe1e-4595-816c-72fbf4f8036c.jpg" group-title="KUNG FU",kung fu hustle
-https://dn720405.ca.archive.org/0/items/kung-fu-hustle/KUNG_FU_HUSTLE.mp4
+#EXTINF:-1 tvg-name="Id Video" tvg-logo="https://i.ytimg.com/vi/dSLDgMKnfek/hqdefault.jpg" group-title="Youtube Live", 4K African Wildlife: Most Amazing Animal Encounters in Kwazulu-Natal With Real Sounds in 4K
+http://isam.x10.mx/live/youtube.m3u8?id=dSLDgMKnfek
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/4aa0771b-d227-4930-8101-8edb50d0124a/a13c3ae0-7332-465e-9bc9-3ac2eaeca396.jpg" group-title="KUNG FU",soulin soccer
-https://ia600607.us.archive.org/5/items/shaolin-soccer_202603/SHAOLIN%20SOCCER.mp4
+#EXTINF:-1 tvg-name="Id Channel" tvg-logo="https://i.ytimg.com/vi/dSLDgMKnfek/hqdefault.jpg" group-title="Youtube Live", 4K African Wildlife: Most Amazing Animal Encounters in Kwazulu-Natal With Real Sounds in 4K
+http://isam.x10.mx/live/youtube.m3u8?id=UCJduEGukjOXzTW4jfkQ-ihw
 
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/4aa0771b-d227-4930-8101-8edb50d0124a/3bca3a01-1cd1-418d-8f42-261632fccbe8.jpg" group-title="KUNG FU",drunken-master
-https://archive.org/download/drunken-master-1-and-2-geekjuicemedia/1.%20Drunken%20Master%20%E9%86%89%E6%8B%B3%201978%20%28GeekJuiceMedia%29%20%5BENG%20DUB%5D.ia.mp4
-
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/4aa0771b-d227-4930-8101-8edb50d0124a/d6730270-7940-4eab-97e3-fa4041c9ef0b.png" group-title="KUNG FU",Winners Sinners
-https://archive.org/download/winners-sinners-geek-juice-media/2.%20Winners%20%26%20Sinners%20%28GeekJuiceMedia%29%20%28Subtitled%29.ia.mp4
+#EXTINF:-1 tvg-name="Username" tvg-logo="https://i.ytimg.com/vi/dSLDgMKnfek/hqdefault.jpg" group-title="Youtube Live", 4K African Wildlife: Most Amazing Animal Encounters in Kwazulu-Natal With Real Sounds in 4K
+http://isam.x10.mx/live/youtube.m3u8?id=@animals-world
 
 
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/4aa0771b-d227-4930-8101-8edb50d0124a/d6730270-7940-4eab-97e3-fa4041c9ef0b.png" group-title="KUNG FU",universal-soldier
-https://archive.org/download/universal-soldier-1992-pal-vhs/20231207_114355.ia.mp4
-https://ia800309.us.archive.org/26/items/universal-soldier-1992-pal-vhs/20231207_114355.ia.mp4?cnt=0
-https://dn721603.ca.archive.org/0/items/universal-soldier-1992-pal-vhs/20231207_114355.ia.mp4
+#EXTINF:-1 tvg-name="Id Video" tvg-logo="https://i.ytimg.com/vi/MiQe9ob9aDc/hqdefault.jpg" group-title="Youtube Live", 🔴 LIVE: Predator Battles: Lions vs Leopards vs Hyenas | Savage Kingdom Livestream | Nat Geo Animals
+http://isam.x10.mx/live/youtube.m3u8?id=MiQe9ob9aDc
+
+#EXTINF:-1 tvg-name="Id Channel" tvg-logo="https://i.ytimg.com/vi/MiQe9ob9aDc/hqdefault.jpg" group-title="Youtube Live", 🔴 LIVE: Predator Battles: Lions vs Leopards vs Hyenas | Savage Kingdom Livestream | Nat Geo Animals
+http://isam.x10.mx/live/youtube.m3u8?id=UCDPk9MG2RexnOMGTD-YnSnA
+
+#EXTINF:-1 tvg-name="Username" tvg-logo="https://i.ytimg.com/vi/MiQe9ob9aDc/hqdefault.jpg" group-title="Youtube Live", 🔴 LIVE: Predator Battles: Lions vs Leopards vs Hyenas | Savage Kingdom Livestream | Nat Geo Animals
+http://isam.x10.mx/live/youtube.m3u8?id=@NatGeoAnimals
+
+#EXTINF:-1 tvg-name="Id Video" tvg-logo="https://i.ytimg.com/vi/mX35sECE--I/hqdefault.jpg" group-title="Youtube Live", Peaceful African Wildlife in 4K | Calm Animal World in Nature
+http://isam.x10.mx/live/youtube.m3u8?id=mX35sECE--I
+
+#EXTINF:-1 tvg-name="Id Channel" tvg-logo="https://i.ytimg.com/vi/mX35sECE--I/hqdefault.jpg" group-title="Youtube Live", Peaceful African Wildlife in 4K | Calm Animal World in Nature
+http://isam.x10.mx/live/youtube.m3u8?id=UCQ9kZRH_QZTVb8egYYc-aaQ
+
+#EXTINF:-1 tvg-name="Username" tvg-logo="https://i.ytimg.com/vi/mX35sECE--I/hqdefault.jpg" group-title="Youtube Live", Peaceful African Wildlife in 4K | Calm Animal World in Nature
+http://isam.x10.mx/live/youtube.m3u8?id=@RhythmEmotion68
+
