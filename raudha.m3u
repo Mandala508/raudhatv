@@ -68,7 +68,10 @@ http://opplextv.cyou:8080/nasir6160/nasir/351030
 
 
 #EXTINF:0 tvg-logo="http://playlistku.elementfx.com/logo/indosiar.png" group-title="TELEVISI",INDOSIAR
-http://opplextv.cyou:8080/live/nasir6160/nasir/350972.ts
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://ratu77.adptv.workers.dev/index.mpd?id=205&type=dash
 
 
 
@@ -804,63 +807,44 @@ mp4
 #EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",Semut Dan Belalang
 https://archive.org/download/VideoEdukasiAnakDongengMalinKundangLow480x360Mp4/Semut%20Dan%20Belalang%20-%20Cerita%20Dongeng%20Anak%20Indonesia%5BLow%2C480x360%2C%20Mp4%5D.mp4
 
-[Video Edukasi Anak] [Dongeng] Malin Kundang[Low,480x360, Mp4]
+[Video Edukasi Anak] [Dongeng] [Low,480x360, Mp4]
 mp4
 -
-#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
+#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",Malin Kundang
 https://archive.org/download/VideoEdukasiAnakDongengMalinKundangLow480x360Mp4/%5BVideo%20Edukasi%20Anak%5D%20%20%5BDongeng%5D%20Malin%20Kundang%5BLow%2C480x360%2C%20Mp4%5D.mp4
 
-o Edukasi Anak] [Dongeng] Burung Gagak dan Rubah[Low,480x360, Mp4]
+o Edukasi Anak] [Dongeng] [Low,480x360, Mp4]
 mp4
 -
-#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
+#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",Burung Gagak dan Rubah
 https://archive.org/download/VideoEdukasiAnakDongengMalinKundangLow480x360Mp4/%5BVideo%20Edukasi%20Anak%5D%20%5BDongeng%5D%20Burung%20Gagak%20dan%20Rubah%5BLow%2C480x360%2C%20Mp4%5D.mp4
 
-[Video Edukasi Anak] [Dongeng] Singa dan Tikus[Low,480x360, Mp4]
+[Video Edukasi Anak] [Dongeng] [Low,480x360, Mp4]
 mp4
 -
-#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
+#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",Singa dan Tikus
 https://archive.org/download/VideoEdukasiAnakDongengMalinKundangLow480x360Mp4/%5BVideo%20Edukasi%20Anak%5D%20%5BDongeng%5D%20Singa%20dan%20Tikus%5BLow%2C480x360%2C%20Mp4%5D.mp4
 
-Penggembala Dan Serigala - Cerita Dongeng Anak[Low,480x360, Mp4]_000057
-jpg
--
-#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
-https://archive.org/stream/VideoEdukasiAnakDongengMalinKundangLow480x360Mp4/VideoEdukasiAnakDongengMalinKundangLow480x360Mp4.thumbs/Anak%20Penggembala%20Dan%20Serigala%20-%20Cerita%20Dongeng%20Anak%5BLow%2C480x360%2C%20Mp4%5D_000057.jpg?vtt=vtt.vtt
 
-Anak Penggembala Dan Serigala - Cerita Dongeng Anak[Low,480x360, Mp4]
+- Cerita Dongeng Anak[Low,480x360, Mp4]
 mp4
 -
-#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
+#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",Anak Penggembala Dan Serigala 
 https://archive.org/serve/VideoEdukasiAnakDongengMalinKundangLow480x360Mp4/Anak%20Penggembala%20Dan%20Serigala%20-%20Cerita%20Dongeng%20Anak%5BLow%2C480x360%2C%20Mp4%5D.mp4
 
 Anak Penggembala Dan Serigala - Cerita Dongeng Anak[Low,480x360, Mp4]
-mp4
-8.4 MB
+#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",Anak Penggembala Dan Serigala 
 https://ia800503.us.archive.org/29/items/VideoEdukasiAnakDongengMalinKundangLow480x360Mp4/Anak%20Penggembala%20Dan%20Serigala%20-%20Cerita%20Dongeng%20Anak%5BLow%2C480x360%2C%20Mp4%5D.mp4?cnt=0
 
 Anak Penggembala Dan Serigala - Cerita Dongeng Anak[Low,480x360, Mp4]
-mp4
-8.4 MB
+#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",Anak Penggembala Dan Serigala 
 https://dn710802.ca.archive.org/0/items/VideoEdukasiAnakDongengMalinKundangLow480x360Mp4/Anak%20Penggembala%20Dan%20Serigala%20-%20Cerita%20Dongeng%20Anak%5BLow%2C480x360%2C%20Mp4%5D.mp4
 
-0- KISAH Angsa dan Telur EMAS, Cerita Dongeng[Low,480x360, Mp4]_000057
-jpg
--
-#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
-https://archive.org/stream/VideoEdukasiAnakDongengMalinKundangLow480x360Mp4/VideoEdukasiAnakDongengMalinKundangLow480x360Mp4.thumbs/Animasi%20ANAK%2C%20-%20KISAH%20Angsa%20dan%20Telur%20EMAS%2C%20Cerita%20Dongeng%5BLow%2C480x360%2C%20Mp4%5D_000057.jpg?vtt=vtt.vtt
 
-AK, - KISAH Angsa dan Telur EMAS, Cerita Dongeng[Low,480x360, Mp4]
+AK, - KISAH , Cerita Dongeng[Low,480x360, Mp4]
 mp4
-10.6 MB
+#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",Angsa dan Telur EMAS
 https://dn710802.ca.archive.org/0/items/VideoEdukasiAnakDongengMalinKundangLow480x360Mp4/Animasi%20ANAK%2C%20-%20KISAH%20Angsa%20dan%20Telur%20EMAS%2C%20Cerita%20Dongeng%5BLow%2C480x360%2C%20Mp4%5D.mp4
-Select None Select All • Remove Duplicates Keep M3U8 • Download Selected
-Referrer: #EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
-https://archive.org/details/VideoEdukasiAnakDongengMalinKundangLow480x360Mp4/Animasi+ANAK%2C+-+KISAH+Angsa+dan+Telur+EMAS%2C+Cerita+Dongeng%5BLow%2C480x360%2C+Mp4%5D.mp4
-Page Title: [ Video Edukasi Anak] [ Dongeng] Malin Kundang[ Low, 480x 360, Mp 4] : Free Download, Borrow, and Streaming : Internet Archive
-Page Link: #EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
-https://archive.org/details/VideoEdukasiAnakDongengMalinKundangLow480x360Mp4/Animasi+ANAK%2C+-+KISAH+Angsa+dan+Telur+EMAS%2C+Cerita+Dongeng%5BLow%2C480x360%2C+Mp4%5D.mp4
-
 
 
 
@@ -869,36 +853,20 @@ https://archive.org/details/VideoEdukasiAnakDongengMalinKundangLow480x360Mp4/Ani
 Mas ~ Dongeng Jawa Tengah Dongeng Kita untuk Anak[Low,480x360, Mp4]
 mp4
 -
-#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
+#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",Dongeng Jawa Tengah
 https://archive.org/download/TimunMasDongengJawaTengahDongengKitaUntukAnakLow480x360Mp4/Timun%20Mas%20~%20Dongeng%20Jawa%20Tengah%20%20Dongeng%20Kita%20untuk%20Anak%5BLow%2C480x360%2C%20Mp4%5D.mp4
 
 Dongeng Jawa Tengah Dongeng Kita untuk Anak[Low,480x360, Mp4]_000057
 jpg
 -
-#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
+#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",Dongeng Jawa Tengah
 https://archive.org/stream/TimunMasDongengJawaTengahDongengKitaUntukAnakLow480x360Mp4/TimunMasDongengJawaTengahDongengKitaUntukAnakLow480x360Mp4.thumbs/Timun%20Mas%20~%20Dongeng%20Jawa%20Tengah%20%20Dongeng%20Kita%20untuk%20Anak%5BLow%2C480x360%2C%20Mp4%5D_000057.jpg?vtt=vtt.vtt
 
 Mas ~ Dongeng Jawa Tengah Dongeng Kita untuk Anak[Low,480x360, Mp4]
 mp4
 -
-#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
+#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",Dongeng Jawa Tengah
 https://archive.org/serve/TimunMasDongengJawaTengahDongengKitaUntukAnakLow480x360Mp4/Timun%20Mas%20~%20Dongeng%20Jawa%20Tengah%20%20Dongeng%20Kita%20untuk%20Anak%5BLow%2C480x360%2C%20Mp4%5D.mp4
-
-Mas ~ Dongeng Jawa Tengah Dongeng Kita untuk Anak[Low,480x360, Mp4]
-mp4
-44.6 MB
-https://ia803106.us.archive.org/12/items/TimunMasDongengJawaTengahDongengKitaUntukAnakLow480x360Mp4/Timun%20Mas%20~%20Dongeng%20Jawa%20Tengah%20%20Dongeng%20Kita%20untuk%20Anak%5BLow%2C480x360%2C%20Mp4%5D.mp4?cnt=0
-
-Mas ~ Dongeng Jawa Tengah Dongeng Kita untuk Anak[Low,480x360, Mp4]
-mp4
-44.6 MB
-https://ia803106.us.archive.org/12/items/TimunMasDongengJawaTengahDongengKitaUntukAnakLow480x360Mp4/Timun%20Mas%20~%20Dongeng%20Jawa%20Tengah%20%20Dongeng%20Kita%20untuk%20Anak%5BLow%2C480x360%2C%20Mp4%5D.mp4
-Select None Select All • Remove Duplicates Keep M3U8 • Download Selected
-Referrer: #EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
-https://archive.org/details/TimunMasDongengJawaTengahDongengKitaUntukAnakLow480x360Mp4
-Page Title: Timun Mas ~ Dongeng Jawa Tengah Dongeng Kita Untuk Anak[ Low, 480x 360, Mp 4] : Free Download, Borrow, and Streaming : Internet Archive
-Page Link: #EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
-https://archive.org/details/TimunMasDongengJawaTengahDongengKitaUntukAnakLow480x360Mp4
 
 
 
@@ -908,36 +876,15 @@ https://archive.org/details/TimunMasDongengJawaTengahDongengKitaUntukAnakLow480x
 duk yang Unik _ Dongeng anak _ Kartun anak _ Dongeng Bahasa Indonesia
 mp4
 -
-#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
+#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",kuda-bertanduk-yang-unik
 https://archive.org/download/kuda-bertanduk-yang-unik-dongeng-anak-kartun-anak-dongeng-bahasa-indonesia/Kuda%20Bertanduk%20yang%20Unik%20_%20%20Dongeng%20anak%20_%20Kartun%20anak%20_%20Dongeng%20Bahasa%20Indonesia.mp4
 
 ang Unik _ Dongeng anak _ Kartun anak _ Dongeng Bahasa Indonesia_000031
 jpg
 -
-#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
+#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",kuda-bertanduk-yang-unik
 https://archive.org/stream/kuda-bertanduk-yang-unik-dongeng-anak-kartun-anak-dongeng-bahasa-indonesia/kuda-bertanduk-yang-unik-dongeng-anak-kartun-anak-dongeng-bahasa-indonesia.thumbs/Kuda%20Bertanduk%20yang%20Unik%20_%20%20Dongeng%20anak%20_%20Kartun%20anak%20_%20Dongeng%20Bahasa%20Indonesia_000031.jpg?vtt=vtt.vtt
 
-duk yang Unik _ Dongeng anak _ Kartun anak _ Dongeng Bahasa Indonesia
-mp4
--
-#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
-https://archive.org/serve/kuda-bertanduk-yang-unik-dongeng-anak-kartun-anak-dongeng-bahasa-indonesia/Kuda%20Bertanduk%20yang%20Unik%20_%20%20Dongeng%20anak%20_%20Kartun%20anak%20_%20Dongeng%20Bahasa%20Indonesia.mp4
-
-duk yang Unik _ Dongeng anak _ Kartun anak _ Dongeng Bahasa Indonesia
-mp4
-53.3 MB
-https://ia801808.us.archive.org/3/items/kuda-bertanduk-yang-unik-dongeng-anak-kartun-anak-dongeng-bahasa-indonesia/Kuda%20Bertanduk%20yang%20Unik%20_%20%20Dongeng%20anak%20_%20Kartun%20anak%20_%20Dongeng%20Bahasa%20Indonesia.mp4?cnt=0
-
-duk yang Unik _ Dongeng anak _ Kartun anak _ Dongeng Bahasa Indonesia
-mp4
-53.3 MB
-https://dn721804.ca.archive.org/0/items/kuda-bertanduk-yang-unik-dongeng-anak-kartun-anak-dongeng-bahasa-indonesia/Kuda%20Bertanduk%20yang%20Unik%20_%20%20Dongeng%20anak%20_%20Kartun%20anak%20_%20Dongeng%20Bahasa%20Indonesia.mp4
-Select None Select All • Remove Duplicates Keep M3U8 • Download Selected
-Referrer: #EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
-https://archive.org/details/kuda-bertanduk-yang-unik-dongeng-anak-kartun-anak-dongeng-bahasa-indonesia
-Page Title: Kuda Bertanduk Yang Unik Dongeng Anak Kartun Anak Dongeng Bahasa Indonesia : Free Download, Borrow, and Streaming : Internet Archive
-Page Link: #EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
-https://archive.org/details/kuda-bertanduk-yang-unik-dongeng-anak-kartun-anak-dongeng-bahasa-indonesia
 
 
 
@@ -948,7 +895,7 @@ https://archive.org/details/kuda-bertanduk-yang-unik-dongeng-anak-kartun-anak-do
 Emas ~ Dongeng Jawa Timur Dongeng Kita untuk Anak[Low,480x360, Mp4]
 mp4
 -
-#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
+#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",KeongEmas
 https://archive.org/download/KeongEmasDongengJawaTimurDongengKitaUntukAnakLow480x360Mp4/Keong%20Emas%20~%20Dongeng%20Jawa%20Timur%20%20Dongeng%20Kita%20untuk%20Anak%5BLow%2C480x360%2C%20Mp4%5D.mp4
 
 ~ Dongeng Jawa Timur Dongeng Kita untuk Anak[Low,480x360, Mp4]_000057
@@ -987,7 +934,7 @@ https://archive.org/details/KeongEmasDongengJawaTimurDongengKitaUntukAnakLow480x
 Menyembelih Anaknya Sendiri Nabi Ismail AS - Kartun Anak Muslim Indonesia
 mp4
 -
-#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",
+#EXTINF:-1 tvg-name="Id Video" tvg-logo="http://playlistku.elementfx.com/logo/dongeng.jpg" group-title="cerita anak",KisahNabiMusaASMelawanPenyihirFiraunKartunAnak
 https://archive.org/download/KisahNabiMusaASMelawanPenyihirFiraunKartunAnakMuslimIndonesia/Kisah%20Nabi%20Ibrahim%20AS%20Menyembelih%20Anaknya%20Sendiri%20Nabi%20Ismail%20AS%20-%20Kartun%20Anak%20Muslim%20Indonesia.mp4
 
 AS yang Sudah Pandai Bicara Sewaktu Bayi - Kartun Anak Muslim Indonesia
