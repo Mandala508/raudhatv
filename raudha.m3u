@@ -9,7 +9,13 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/272
 #https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
+#EXTINF:-1 tvg-name="TVRI Sport Digital (server 1)" tvg-logo="https://www.dropbox.com/scl/fi/36h2ef1x5sby59bqzbj0s/20260616_091758.jpg?rlkey=j7gkhvdrcj4jxnl3xgolhmckd&st=2op0kume&dl=1" tvg-id="Digital.id" group-title=" PIALA DUNIA",server 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel1.m3u8
 
+#EXTINF:-1 tvg-name="TVRI Sport Digital (server 1)" tvg-logo="https://www.dropbox.com/scl/fi/36h2ef1x5sby59bqzbj0s/20260616_091758.jpg?rlkey=j7gkhvdrcj4jxnl3xgolhmckd&st=2op0kume&dl=1" tvg-id="Digital.id" group-title=" PIALA DUNIA",server 3
+https://live05.paznhl.app/live/24561735.m3u8
 
 
 ##########################
